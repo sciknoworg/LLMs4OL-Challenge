@@ -3,9 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 *.ipynb
-   
-2025/TaskA-Text2Onto/*/all/*
 
+2025/TaskA-Text2Onto/*/all/*
+.idea
 
 2025/TaskB-TermTyping/*/all/* 
 2025/TaskB-TermTyping/*/test/*_gt.json
