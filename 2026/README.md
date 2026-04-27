@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./llms4ol-header.jpg" alt="LLMs4OL" width="100%" height="230"/>
+  <img src="./llms4ol-header.png" alt="LLMs4OL" width="100%" height="230"/>
 </p>
 
 <H2 style="color: #000080; text-align: center;"><p align="center"> The 3rd LLMs4OL Challenge @ ISWC 2026</p></H2>
