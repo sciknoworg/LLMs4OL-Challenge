@@ -20,14 +20,15 @@ This repository serves as the central hub for datasets, tasks, documentation, an
 Below is a list of the current and upcoming LLMs4OL challenge rounds, along with links to their corresponding materials:
 
 
-| 🏁 Challenge Round | 📄 GitHub Readme | 🌍 Conference | 🔗 Website |
-| :---:|:---:|:---:|:---:|
-| 1nd LLMs4OL | [2024/README.md](2024/README.md) | 23th ISWC at Baltimore, USA (November 11-15, 2024)| [https://sites.google.com/view/llms4ol](https://sites.google.com/view/llms4ol)|
-| 2nd LLMs4OL | [2025/README.md](2025/README.md) | 24th ISWC at Nara, Japan (November 2-6, 2025)|[https://sites.google.com/view/llms4ol2025](https://sites.google.com/view/llms4ol2025)|
+| 🏁 Challenge Round |         📄 GitHub Readme         |                   🌍 Conference                    |                                       🔗 Website                                       |
+|:------------------:|:--------------------------------:|:--------------------------------------------------:|:--------------------------------------------------------------------------------------:|
+|    1nd LLMs4OL     | [2024/README.md](2024/README.md) | 23th ISWC at Baltimore, USA (November 11-15, 2024) |  [https://sites.google.com/view/llms4ol2024](https://sites.google.com/view/llms4ol2024)  |
+|    2nd LLMs4OL     | [2025/README.md](2025/README.md) |   24th ISWC at Nara, Japan (November 2-6, 2025)    | [https://sites.google.com/view/llms4ol2025](https://sites.google.com/view/llms4ol2025) |
+|    3rd LLMs4OL     | [2026/README.md](2026/README.md) |   25th ISWC at Bari, Italy (October 25-29, 2026)   | [https://sites.google.com/view/llms4ol2026](https://sites.google.com/view/llms4ol2026) |
 
 ## 📦 Repository Structure
 
-Each edition folder (e.g., 2024/, 2025/) contains:
+Each edition folder (e.g., 2024/, 2025/ 2026/) contains:
 * 📁 Datasets for training and evaluation
 * 📄 Submission guidelines
 * ⚙️ Baseline systems (if available)
