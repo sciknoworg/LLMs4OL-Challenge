@@ -1,0 +1,194 @@
+fiat point
+site
+written name
+independent continuant
+data integration process
+rism identifier
+reasoned ontology module
+data visualization process
+ontology module
+data storage process
+programming language
+centrally registered identifier
+service product
+disposition
+licence
+centrally registered identifier registry
+rdf/xml
+act of dissolution
+action specification
+json-ld
+ontology release version
+title
+process engineering
+contacting process
+website
+technological method specification
+manchester owl syntax
+temporal interval
+software
+project
+organization
+description
+dataset creation process
+consortium member
+mathematics
+software development
+citation
+agent role
+natural science
+n-quads
+object
+three-dimensional spatial region
+humanity
+person
+plan specification
+material entity
+identifier
+ontology variant
+turtle
+physic
+event
+n-triples
+conference
+computer science
+agriculture
+course
+institutional identification
+data handling process
+dataset documenting process
+specifically dependent continuant
+factgrid identifier
+process
+figure
+function
+contact point role
+dataset
+quality
+postal address
+wikidata identifier
+fiat object part
+geonames identifier
+publication
+two-dimensional spatial region
+patent
+service process
+seminar
+owl functional syntax
+city
+standard
+history
+software script
+spatiotemporal region
+denotator type
+workflow specification
+specification
+summer school
+publishing process
+one-dimensional temporal region
+document title
+contributor role
+data processing process
+license
+notation3
+software library
+orcid identifier
+spatial region
+software method
+data producing process
+owl format
+fiat line
+electrical engineering
+data portal
+software module
+publisher role
+chemistry
+social science
+database software
+object aggregate
+textual entity
+rdf format
+base ontology module
+data cleaning process
+support service
+academic discipline
+relational quality
+data curation service
+software application
+academic event
+temporal instant
+construction engineering
+role
+creator role
+temporal region
+training service
+data item
+centrally registered identifier symbol
+act of foundation
+symposium
+geoscience
+consortium member role
+contributing process
+data transformation process
+web application software
+ontology namespace
+author information textual entity
+lecture
+nfdi resource
+federal state
+occurrent
+curation status specification
+caption
+country
+data format specification
+obsolescence reason specification
+medicine
+version number
+symbol
+mechanical engineering
+information content entity
+directive information entity
+service specification
+viaf identifier
+ror identifier
+main release ontology module
+storage service
+place
+continuant
+zero-dimensional spatial region
+source code repository
+given name
+data about an ontology part
+ontology
+collection
+zero-dimensional temporal region
+biology
+workshop
+isil identifier
+document
+abbreviation textual entity
+entity
+fiat surface
+email address
+mime-type
+editors ontology module
+hackathon
+creative work
+one-dimensional spatial region
+family name
+report
+media type
+materials science
+panel discussion
+related work textual entity
+code set
+generically dependent continuant
+agent
+realizable entity
+plan
+objective specification
+process boundary
+continuant fiat boundary
+immaterial entity
+owl/xml
+gnd identifier

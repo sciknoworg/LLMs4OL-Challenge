@@ -1,0 +1,271 @@
+absorptivity
+absorptivity of particle
+abstract
+additive manufacturing process
+adiabatic b c
+amorphous density variation model
+amorphous material
+amorphous thermoplastic
+arbitrary lagrangian eulerian
+arrhenius type density variation model
+at constant melting temperature
+atomic diffusion in crystal vacancies
+beam size
+beam type
+beam wavelength
+bed radiation
+beer lambert law
+beer lambert model
+boltzmann constant
+bottom boundary condition
+bottom conduction
+boundary heat flux
+build chamber parameter
+bulk material property
+ceramic
+chamber temperature
+characteristic
+characteristic frequency
+chemical composition
+consolidation
+consolidation by melting
+consolidation by melting characteristic
+consolidation by melting model
+consolidation by sintering
+consolidation by sintering characteristic
+consolidation by sintering model
+consolidation characteristic
+consolidation initial condition
+consolidation mechanism
+consolidation model
+consolidation model prediction
+consolidation modeling assumption
+consolidation physical property
+consolidation state variable
+continuum
+convection coefficient
+cooling rate
+crystal lattice constant
+crystalline density variation model
+crystalline material
+cylindrical distribution
+dendrite grain orientation
+dendrite orientation
+dendritic grain size distribution
+density distribution
+density of bulk material
+density variation model
+dentritic grain size
+deterministic irradiation
+diffuse reflection
+diffusion coefficient
+dimensionality of absorbed heat
+dimensionality of physical system
+direct metal laser melting
+direct metal laser sintering
+dirichlet b c
+discrete element method
+elastic modulus
+electron beam melting
+emissivity
+emissivity of particle
+empirical model
+energy conservation law
+enthalpy
+equation
+equipment parameter
+evaporation modeling assumption
+extinction coefficient
+finite element method
+finite volume method
+fixed frame
+fluid mechanics
+fluid mechanics model prediction
+fluid velocity
+fouriers law
+fouriers model
+frenkels model
+full melting
+fully sintered density
+fusion
+fusion characteristic
+gas composition
+gas pressure
+gaussian distribution
+glass transition temperature
+hard metal
+hatching distance
+heat dissipation
+heat dissipation characteristic
+heat flux b c
+heat source power
+heat transfer
+heat transfer characteristic
+heat transfer model
+heat transfer model prediction
+heat transfer modeling assumption
+heat transfer numerical method
+heat transfer property
+ideal gas constant
+inclusion of absorbed heat
+inclusion of heat as boundary condition
+inclusion of heat as source term
+inert gas property
+initial distribution of enthalpy
+initial distribution of temperature
+initial powder density
+initial volume
+irradiation absorption
+irradiation absorption characteristic
+irradiation absorption model
+irradiation absorption model prediction
+irradiation absorption modeling assumption
+irradiation absorption numerical method
+irradiation absorption property
+irradiation modeling assumption
+iso thermal b c
+latent heat
+law of physics for consolidation
+law of physics for heat transfer
+law of physics for irradiation absorption
+layer thickness
+liquidus temperature
+local solidification time
+loose powder density
+material
+material distribution
+material property
+material selection
+material vendor specification
+melt pool depth
+melt pool length
+melt pool maximum temperature
+melt pool shape
+melt pool signature
+melt pool temperature
+melt pool temperature gradient
+melt pool width
+melting
+melting modeling assumption
+melting point
+melting temperature
+metal alloy
+metallic crystalline
+microstructural model prediction
+microstructural phenomenon
+microstructure
+microstructure distribution
+microstructure evolution
+mixed b c
+model
+model element
+model input
+model variable
+modeling assumption
+moving frame
+neumann b c
+newtonian flow
+non newtonian flow
+number of pores per unit volume
+numerical method
+optical parameter
+packing density
+partial melting
+particle
+phase transformation
+phase transformation assumption
+phase transformation characteristic
+phenomenon
+phenomenon characteristic
+physical
+physical property
+physical reflection law
+physical reflection property
+physics based model
+point source distribution
+poissons ratio
+porosity
+porosity distribution
+powder bed dimension
+powder bed fusion process
+powder bed fusion process parameter
+powder density
+powder material property
+powder size distribution
+prediction
+process parameter
+process signature
+radiation transfer law
+radiation transfer model
+radiation transfer property
+radiative property
+ray tracing model
+reference frame assumption
+reflectivity of particle
+residual stress distribution
+rosenthal type heat transfer model
+scanning speed
+selective laser melting
+selective laser sintering
+semi crystalline thermoplastic
+semi infinite b c
+shrinkage
+side boundary condition
+sideway conduction
+sintering activation energy
+sintering rate
+solid mechanics
+solid mechanics model prediction
+solid state sintering
+solidus temperature
+specific heat
+specular reflection
+specular reflectivity
+statistical nature of irradiation distribution
+stochastic irradiation
+strain distribution
+structural phenomenon
+substrate modeling assumption
+substrate temperature
+surface convection
+surface distribution of absorbed heat
+surface distribution of heat
+surface tension
+temperature
+temperature activated reaction
+temperature dependent density
+temperature dependent porosity
+temperature dependent powder density
+thermal boundary condition
+thermal conductivity in powder bed
+thermal conductivity of the bulk material
+thermal conductivity of the substrate
+thermal diffusivity
+thermal gradient distribution
+thermal initial condition
+thermal model
+thermal model prediction
+thermal modeling assumption
+thermal phenomenon
+thermal physical property
+thermal state variable
+three dimensional
+time history of enthalpy
+time history of temperature
+top boundary condition
+transport equation for enthalpy
+transport equation for temperature
+transport property assumption
+tuning parameter
+two dimensional
+two flux method
+type of reflection
+vaporization
+vaporization characteristic
+vaporization temperature
+viscosity
+void
+volume
+volume distribution
+volumetric distribution of absorbed heat
+within temperature range
