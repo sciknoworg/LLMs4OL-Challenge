@@ -3,8 +3,7 @@
 </p>
 
 <H2 style="color: #000080; text-align: center;"><p align="center"> The 3rd LLMs4OL Challenge @ ISWC 2026</p></H2>
-<H3 style="text-align: center;"><p align="center"><a href="https://sites.google.com/view/llms4ol2026">Website</a> | 
-<a href="#">Codalab</a></p> </H3>
+<H3 style="text-align: center;"><p align="center"><a href="https://sites.google.com/view/llms4ol2026">Website</a> 
 
 ## Tasks
 The 3rd LLMs4OL Challenge consists of 3 tasks:
