@@ -1,0 +1,1187 @@
+[
+    {
+        "id": "TR_305ea50b",
+        "parent": "rdf format",
+        "child": "owl format"
+    },
+    {
+        "id": "TR_f2bd8cd9",
+        "parent": "rdf format",
+        "child": "turtle"
+    },
+    {
+        "id": "TR_b13e72ad",
+        "parent": "rdf format",
+        "child": "n-triples"
+    },
+    {
+        "id": "TR_21e55757",
+        "parent": "rdf format",
+        "child": "notation3"
+    },
+    {
+        "id": "TR_fafd4d93",
+        "parent": "rdf format",
+        "child": "rdf/xml"
+    },
+    {
+        "id": "TR_65d6231a",
+        "parent": "rdf format",
+        "child": "json-ld"
+    },
+    {
+        "id": "TR_9ddc7a44",
+        "parent": "rdf format",
+        "child": "n-quads"
+    },
+    {
+        "id": "TR_f87c4015",
+        "parent": "data format specification",
+        "child": "rdf format"
+    },
+    {
+        "id": "TR_c6d6e473",
+        "parent": "owl format",
+        "child": "owl functional syntax"
+    },
+    {
+        "id": "TR_e9ab0582",
+        "parent": "owl format",
+        "child": "manchester owl syntax"
+    },
+    {
+        "id": "TR_06e574d4",
+        "parent": "owl format",
+        "child": "owl/xml"
+    },
+    {
+        "id": "TR_bd83a3f2",
+        "parent": "entity",
+        "child": "continuant"
+    },
+    {
+        "id": "TR_17b101be",
+        "parent": "entity",
+        "child": "occurrent"
+    },
+    {
+        "id": "TR_be529129",
+        "parent": "entity",
+        "child": "continuant"
+    },
+    {
+        "id": "TR_93379405",
+        "parent": "continuant",
+        "child": "independent continuant"
+    },
+    {
+        "id": "TR_2967a791",
+        "parent": "continuant",
+        "child": "specifically dependent continuant"
+    },
+    {
+        "id": "TR_a5a1b858",
+        "parent": "continuant",
+        "child": "generically dependent continuant"
+    },
+    {
+        "id": "TR_72ea0e9f",
+        "parent": "continuant",
+        "child": "nfdi resource"
+    },
+    {
+        "id": "TR_fd266325",
+        "parent": "continuant",
+        "child": "independent continuant"
+    },
+    {
+        "id": "TR_e3e81af5",
+        "parent": "immaterial entity",
+        "child": "spatial region"
+    },
+    {
+        "id": "TR_aa77f22d",
+        "parent": "immaterial entity",
+        "child": "site"
+    },
+    {
+        "id": "TR_fa838f63",
+        "parent": "immaterial entity",
+        "child": "continuant fiat boundary"
+    },
+    {
+        "id": "TR_f4782128",
+        "parent": "immaterial entity",
+        "child": "organization"
+    },
+    {
+        "id": "TR_1d87ec60",
+        "parent": "agent",
+        "child": "organization"
+    },
+    {
+        "id": "TR_3834bae2",
+        "parent": "immaterial entity",
+        "child": "spatial region"
+    },
+    {
+        "id": "TR_4518d2d1",
+        "parent": "occurrent",
+        "child": "temporal region"
+    },
+    {
+        "id": "TR_c6b32481",
+        "parent": "occurrent",
+        "child": "spatiotemporal region"
+    },
+    {
+        "id": "TR_e42a7148",
+        "parent": "occurrent",
+        "child": "process"
+    },
+    {
+        "id": "TR_ae7ff4aa",
+        "parent": "occurrent",
+        "child": "process boundary"
+    },
+    {
+        "id": "TR_72890626",
+        "parent": "occurrent",
+        "child": "temporal region"
+    },
+    {
+        "id": "TR_6c5ec1df",
+        "parent": "occurrent",
+        "child": "temporal region"
+    },
+    {
+        "id": "TR_c291f19b",
+        "parent": "spatial region",
+        "child": "two-dimensional spatial region"
+    },
+    {
+        "id": "TR_50f2125f",
+        "parent": "spatial region",
+        "child": "zero-dimensional spatial region"
+    },
+    {
+        "id": "TR_3fdaeb34",
+        "parent": "spatial region",
+        "child": "one-dimensional spatial region"
+    },
+    {
+        "id": "TR_b3aba3d9",
+        "parent": "spatial region",
+        "child": "three-dimensional spatial region"
+    },
+    {
+        "id": "TR_31469fab",
+        "parent": "spatial region",
+        "child": "two-dimensional spatial region"
+    },
+    {
+        "id": "TR_1e5a3898",
+        "parent": "occurrent",
+        "child": "spatiotemporal region"
+    },
+    {
+        "id": "TR_c557eff6",
+        "parent": "occurrent",
+        "child": "spatiotemporal region"
+    },
+    {
+        "id": "TR_e900791f",
+        "parent": "occurrent",
+        "child": "process"
+    },
+    {
+        "id": "TR_543cd964",
+        "parent": "occurrent",
+        "child": "process"
+    },
+    {
+        "id": "TR_8716a64a",
+        "parent": "occurrent",
+        "child": "process"
+    },
+    {
+        "id": "TR_65847a6e",
+        "parent": "realizable entity",
+        "child": "disposition"
+    },
+    {
+        "id": "TR_bc6b04e3",
+        "parent": "realizable entity",
+        "child": "role"
+    },
+    {
+        "id": "TR_d0ffacbe",
+        "parent": "realizable entity",
+        "child": "plan"
+    },
+    {
+        "id": "TR_f2996421",
+        "parent": "specifically dependent continuant",
+        "child": "realizable entity"
+    },
+    {
+        "id": "TR_94cf587b",
+        "parent": "specifically dependent continuant",
+        "child": "quality"
+    },
+    {
+        "id": "TR_915fd612",
+        "parent": "spatial region",
+        "child": "zero-dimensional spatial region"
+    },
+    {
+        "id": "TR_0a969196",
+        "parent": "material entity",
+        "child": "fiat object part"
+    },
+    {
+        "id": "TR_3431229e",
+        "parent": "material entity",
+        "child": "object aggregate"
+    },
+    {
+        "id": "TR_6cdd81ce",
+        "parent": "material entity",
+        "child": "object"
+    },
+    {
+        "id": "TR_3652e1d0",
+        "parent": "spatial region",
+        "child": "one-dimensional spatial region"
+    },
+    {
+        "id": "TR_a89a4879",
+        "parent": "spatial region",
+        "child": "three-dimensional spatial region"
+    },
+    {
+        "id": "TR_c3c639bb",
+        "parent": "immaterial entity",
+        "child": "site"
+    },
+    {
+        "id": "TR_25666d47",
+        "parent": "immaterial entity",
+        "child": "site"
+    },
+    {
+        "id": "TR_45058c15",
+        "parent": "immaterial entity",
+        "child": "site"
+    },
+    {
+        "id": "TR_70e6c16d",
+        "parent": "disposition",
+        "child": "function"
+    },
+    {
+        "id": "TR_439816b5",
+        "parent": "occurrent",
+        "child": "process boundary"
+    },
+    {
+        "id": "TR_ec51bde3",
+        "parent": "occurrent",
+        "child": "process boundary"
+    },
+    {
+        "id": "TR_2902ccd6",
+        "parent": "occurrent",
+        "child": "process boundary"
+    },
+    {
+        "id": "TR_aadef9e9",
+        "parent": "occurrent",
+        "child": "process boundary"
+    },
+    {
+        "id": "TR_9b469cd4",
+        "parent": "temporal region",
+        "child": "one-dimensional temporal region"
+    },
+    {
+        "id": "TR_6c722ff4",
+        "parent": "temporal region",
+        "child": "zero-dimensional temporal region"
+    },
+    {
+        "id": "TR_a578ab0f",
+        "parent": "temporal region",
+        "child": "one-dimensional temporal region"
+    },
+    {
+        "id": "TR_58a43db7",
+        "parent": "temporal region",
+        "child": "one-dimensional temporal region"
+    },
+    {
+        "id": "TR_a06b8eeb",
+        "parent": "independent continuant",
+        "child": "material entity"
+    },
+    {
+        "id": "TR_87b06f58",
+        "parent": "independent continuant",
+        "child": "immaterial entity"
+    },
+    {
+        "id": "TR_4a083487",
+        "parent": "independent continuant",
+        "child": "agent"
+    },
+    {
+        "id": "TR_52bb426a",
+        "parent": "independent continuant",
+        "child": "material entity"
+    },
+    {
+        "id": "TR_588438c9",
+        "parent": "independent continuant",
+        "child": "material entity"
+    },
+    {
+        "id": "TR_71836baa",
+        "parent": "immaterial entity",
+        "child": "continuant fiat boundary"
+    },
+    {
+        "id": "TR_0c59408b",
+        "parent": "immaterial entity",
+        "child": "continuant fiat boundary"
+    },
+    {
+        "id": "TR_04ae744d",
+        "parent": "continuant fiat boundary",
+        "child": "fiat line"
+    },
+    {
+        "id": "TR_e9204254",
+        "parent": "continuant fiat boundary",
+        "child": "fiat surface"
+    },
+    {
+        "id": "TR_fab53ea5",
+        "parent": "continuant fiat boundary",
+        "child": "fiat point"
+    },
+    {
+        "id": "TR_6b3c6088",
+        "parent": "continuant fiat boundary",
+        "child": "fiat line"
+    },
+    {
+        "id": "TR_fc2fe04d",
+        "parent": "quality",
+        "child": "relational quality"
+    },
+    {
+        "id": "TR_e83beef0",
+        "parent": "continuant fiat boundary",
+        "child": "fiat surface"
+    },
+    {
+        "id": "TR_725da0cf",
+        "parent": "continuant fiat boundary",
+        "child": "fiat point"
+    },
+    {
+        "id": "TR_ac94ae45",
+        "parent": "temporal region",
+        "child": "zero-dimensional temporal region"
+    },
+    {
+        "id": "TR_6ad4e7d1",
+        "parent": "process",
+        "child": "history"
+    },
+    {
+        "id": "TR_8879ee9c",
+        "parent": "process",
+        "child": "project"
+    },
+    {
+        "id": "TR_384bf28a",
+        "parent": "process",
+        "child": "publishing process"
+    },
+    {
+        "id": "TR_e8568a73",
+        "parent": "process",
+        "child": "software development"
+    },
+    {
+        "id": "TR_cffe7f87",
+        "parent": "process",
+        "child": "contacting process"
+    },
+    {
+        "id": "TR_5a73ee4b",
+        "parent": "process",
+        "child": "contributing process"
+    },
+    {
+        "id": "TR_7472b8d8",
+        "parent": "process",
+        "child": "event"
+    },
+    {
+        "id": "TR_fdabb72a",
+        "parent": "process",
+        "child": "data handling process"
+    },
+    {
+        "id": "TR_7841daaa",
+        "parent": "one-dimensional temporal region",
+        "child": "temporal interval"
+    },
+    {
+        "id": "TR_b9c32f8b",
+        "parent": "zero-dimensional temporal region",
+        "child": "temporal instant"
+    },
+    {
+        "id": "TR_1ae22952",
+        "parent": "directive information entity",
+        "child": "objective specification"
+    },
+    {
+        "id": "TR_33f399a3",
+        "parent": "directive information entity",
+        "child": "action specification"
+    },
+    {
+        "id": "TR_e99b9678",
+        "parent": "directive information entity",
+        "child": "data format specification"
+    },
+    {
+        "id": "TR_d1a27e75",
+        "parent": "directive information entity",
+        "child": "plan specification"
+    },
+    {
+        "id": "TR_c8343ab9",
+        "parent": "directive information entity",
+        "child": "media type"
+    },
+    {
+        "id": "TR_2dd5ac32",
+        "parent": "plan specification",
+        "child": "programming language"
+    },
+    {
+        "id": "TR_dca59a7d",
+        "parent": "plan specification",
+        "child": "programming language"
+    },
+    {
+        "id": "TR_f3775466",
+        "parent": "plan specification",
+        "child": "technological method specification"
+    },
+    {
+        "id": "TR_512f6c76",
+        "parent": "plan specification",
+        "child": "service specification"
+    },
+    {
+        "id": "TR_b543d3a8",
+        "parent": "plan specification",
+        "child": "workflow specification"
+    },
+    {
+        "id": "TR_3dedb76a",
+        "parent": "information content entity",
+        "child": "data item"
+    },
+    {
+        "id": "TR_53a5a806",
+        "parent": "information content entity",
+        "child": "symbol"
+    },
+    {
+        "id": "TR_2779bbc7",
+        "parent": "information content entity",
+        "child": "directive information entity"
+    },
+    {
+        "id": "TR_f837554f",
+        "parent": "information content entity",
+        "child": "textual entity"
+    },
+    {
+        "id": "TR_ff1e23f7",
+        "parent": "information content entity",
+        "child": "figure"
+    },
+    {
+        "id": "TR_92c9fefc",
+        "parent": "information content entity",
+        "child": "email address"
+    },
+    {
+        "id": "TR_28787235",
+        "parent": "information content entity",
+        "child": "code set"
+    },
+    {
+        "id": "TR_a5003d0f",
+        "parent": "information content entity",
+        "child": "licence"
+    },
+    {
+        "id": "TR_42eefd77",
+        "parent": "information content entity",
+        "child": "dataset"
+    },
+    {
+        "id": "TR_4447b1a7",
+        "parent": "information content entity",
+        "child": "identifier"
+    },
+    {
+        "id": "TR_f865dd23",
+        "parent": "information content entity",
+        "child": "document"
+    },
+    {
+        "id": "TR_2171e01f",
+        "parent": "information content entity",
+        "child": "academic discipline"
+    },
+    {
+        "id": "TR_3043fed4",
+        "parent": "information content entity",
+        "child": "license"
+    },
+    {
+        "id": "TR_1d5f6065",
+        "parent": "generically dependent continuant",
+        "child": "information content entity"
+    },
+    {
+        "id": "TR_6aa8b253",
+        "parent": "generically dependent continuant",
+        "child": "information content entity"
+    },
+    {
+        "id": "TR_d5433b2a",
+        "parent": "information content entity",
+        "child": "directive information entity"
+    },
+    {
+        "id": "TR_89097eb4",
+        "parent": "data about an ontology part",
+        "child": "curation status specification"
+    },
+    {
+        "id": "TR_fadd0833",
+        "parent": "data about an ontology part",
+        "child": "obsolescence reason specification"
+    },
+    {
+        "id": "TR_bf1b1552",
+        "parent": "data about an ontology part",
+        "child": "denotator type"
+    },
+    {
+        "id": "TR_1872b15f",
+        "parent": "data about an ontology part",
+        "child": "ontology module"
+    },
+    {
+        "id": "TR_76f12450",
+        "parent": "data item",
+        "child": "data about an ontology part"
+    },
+    {
+        "id": "TR_4fa16c87",
+        "parent": "data item",
+        "child": "ontology"
+    },
+    {
+        "id": "TR_83f04690",
+        "parent": "data item",
+        "child": "ontology release version"
+    },
+    {
+        "id": "TR_865e92fa",
+        "parent": "data item",
+        "child": "ontology namespace"
+    },
+    {
+        "id": "TR_988ab7af",
+        "parent": "directive information entity",
+        "child": "plan specification"
+    },
+    {
+        "id": "TR_5549e278",
+        "parent": "directive information entity",
+        "child": "plan specification"
+    },
+    {
+        "id": "TR_2d2816c1",
+        "parent": "symbol",
+        "child": "version number"
+    },
+    {
+        "id": "TR_66791aed",
+        "parent": "symbol",
+        "child": "centrally registered identifier symbol"
+    },
+    {
+        "id": "TR_6a4d6753",
+        "parent": "textual entity",
+        "child": "institutional identification"
+    },
+    {
+        "id": "TR_91d17db9",
+        "parent": "textual entity",
+        "child": "caption"
+    },
+    {
+        "id": "TR_b35b9871",
+        "parent": "textual entity",
+        "child": "document title"
+    },
+    {
+        "id": "TR_9db99ce2",
+        "parent": "textual entity",
+        "child": "postal address"
+    },
+    {
+        "id": "TR_949962c3",
+        "parent": "textual entity",
+        "child": "written name"
+    },
+    {
+        "id": "TR_4540d3ce",
+        "parent": "textual entity",
+        "child": "abbreviation textual entity"
+    },
+    {
+        "id": "TR_c31cdc1e",
+        "parent": "textual entity",
+        "child": "author information textual entity"
+    },
+    {
+        "id": "TR_0453a53f",
+        "parent": "textual entity",
+        "child": "related work textual entity"
+    },
+    {
+        "id": "TR_48aeb395",
+        "parent": "textual entity",
+        "child": "citation"
+    },
+    {
+        "id": "TR_d4db8a56",
+        "parent": "textual entity",
+        "child": "description"
+    },
+    {
+        "id": "TR_c42ea656",
+        "parent": "textual entity",
+        "child": "title"
+    },
+    {
+        "id": "TR_9c63c209",
+        "parent": "textual entity",
+        "child": "caption"
+    },
+    {
+        "id": "TR_423850d4",
+        "parent": "symbol",
+        "child": "centrally registered identifier symbol"
+    },
+    {
+        "id": "TR_e68dc0b1",
+        "parent": "identifier",
+        "child": "centrally registered identifier"
+    },
+    {
+        "id": "TR_b1295274",
+        "parent": "identifier",
+        "child": "given name"
+    },
+    {
+        "id": "TR_42dd47f2",
+        "parent": "identifier",
+        "child": "family name"
+    },
+    {
+        "id": "TR_b12130f2",
+        "parent": "identifier",
+        "child": "centrally registered identifier"
+    },
+    {
+        "id": "TR_c760ef0f",
+        "parent": "identifier",
+        "child": "centrally registered identifier"
+    },
+    {
+        "id": "TR_a7c74337",
+        "parent": "code set",
+        "child": "centrally registered identifier registry"
+    },
+    {
+        "id": "TR_02864cba",
+        "parent": "centrally registered identifier",
+        "child": "orcid identifier"
+    },
+    {
+        "id": "TR_e0fe203c",
+        "parent": "centrally registered identifier",
+        "child": "gnd identifier"
+    },
+    {
+        "id": "TR_a192e745",
+        "parent": "centrally registered identifier",
+        "child": "viaf identifier"
+    },
+    {
+        "id": "TR_775dd5ea",
+        "parent": "centrally registered identifier",
+        "child": "geonames identifier"
+    },
+    {
+        "id": "TR_59122e2b",
+        "parent": "centrally registered identifier",
+        "child": "wikidata identifier"
+    },
+    {
+        "id": "TR_56371291",
+        "parent": "centrally registered identifier",
+        "child": "ror identifier"
+    },
+    {
+        "id": "TR_f7e195b8",
+        "parent": "centrally registered identifier",
+        "child": "isil identifier"
+    },
+    {
+        "id": "TR_48370f5c",
+        "parent": "centrally registered identifier",
+        "child": "factgrid identifier"
+    },
+    {
+        "id": "TR_76128a62",
+        "parent": "centrally registered identifier",
+        "child": "rism identifier"
+    },
+    {
+        "id": "TR_ef7ac5c3",
+        "parent": "ontology variant",
+        "child": "base ontology module"
+    },
+    {
+        "id": "TR_56208a70",
+        "parent": "ontology variant",
+        "child": "main release ontology module"
+    },
+    {
+        "id": "TR_23fb06c3",
+        "parent": "ontology variant",
+        "child": "reasoned ontology module"
+    },
+    {
+        "id": "TR_9a389a22",
+        "parent": "ontology module",
+        "child": "editors ontology module"
+    },
+    {
+        "id": "TR_d95c9033",
+        "parent": "ontology module",
+        "child": "ontology variant"
+    },
+    {
+        "id": "TR_d64351c1",
+        "parent": "immaterial entity",
+        "child": "organization"
+    },
+    {
+        "id": "TR_0973224d",
+        "parent": "agent",
+        "child": "organization"
+    },
+    {
+        "id": "TR_65f29bce",
+        "parent": "agent",
+        "child": "person"
+    },
+    {
+        "id": "TR_1d5c1fd9",
+        "parent": "agent",
+        "child": "person"
+    },
+    {
+        "id": "TR_8e693da1",
+        "parent": "site",
+        "child": "place"
+    },
+    {
+        "id": "TR_8d3559ce",
+        "parent": "organization",
+        "child": "consortium member"
+    },
+    {
+        "id": "TR_e4f6fb79",
+        "parent": "nfdi resource",
+        "child": "creative work"
+    },
+    {
+        "id": "TR_2f64d332",
+        "parent": "nfdi resource",
+        "child": "service product"
+    },
+    {
+        "id": "TR_fad8c819",
+        "parent": "nfdi resource",
+        "child": "creative work"
+    },
+    {
+        "id": "TR_ea48afcf",
+        "parent": "document",
+        "child": "patent"
+    },
+    {
+        "id": "TR_c7e28730",
+        "parent": "document",
+        "child": "report"
+    },
+    {
+        "id": "TR_9ee3767c",
+        "parent": "document",
+        "child": "source code repository"
+    },
+    {
+        "id": "TR_b7aa7f84",
+        "parent": "document",
+        "child": "publication"
+    },
+    {
+        "id": "TR_97bac5ae",
+        "parent": "independent continuant",
+        "child": "agent"
+    },
+    {
+        "id": "TR_59baeec3",
+        "parent": "place",
+        "child": "city"
+    },
+    {
+        "id": "TR_7a38fd4c",
+        "parent": "place",
+        "child": "country"
+    },
+    {
+        "id": "TR_ec347fc7",
+        "parent": "place",
+        "child": "federal state"
+    },
+    {
+        "id": "TR_8c147e2c",
+        "parent": "object aggregate",
+        "child": "collection"
+    },
+    {
+        "id": "TR_831d9a7b",
+        "parent": "agent role",
+        "child": "consortium member role"
+    },
+    {
+        "id": "TR_1410180a",
+        "parent": "agent role",
+        "child": "contact point role"
+    },
+    {
+        "id": "TR_2e0b777e",
+        "parent": "agent role",
+        "child": "contributor role"
+    },
+    {
+        "id": "TR_b999a728",
+        "parent": "agent role",
+        "child": "publisher role"
+    },
+    {
+        "id": "TR_67489836",
+        "parent": "agent role",
+        "child": "creator role"
+    },
+    {
+        "id": "TR_ebfa3370",
+        "parent": "agent role",
+        "child": "consortium member role"
+    },
+    {
+        "id": "TR_e5213190",
+        "parent": "agent role",
+        "child": "contributor role"
+    },
+    {
+        "id": "TR_0bbd896f",
+        "parent": "agent role",
+        "child": "contributor role"
+    },
+    {
+        "id": "TR_b65493dc",
+        "parent": "software",
+        "child": "database software"
+    },
+    {
+        "id": "TR_babed4a2",
+        "parent": "software",
+        "child": "software library"
+    },
+    {
+        "id": "TR_f64691a9",
+        "parent": "software",
+        "child": "software application"
+    },
+    {
+        "id": "TR_043ee24e",
+        "parent": "software",
+        "child": "web application software"
+    },
+    {
+        "id": "TR_5f817836",
+        "parent": "software",
+        "child": "software method"
+    },
+    {
+        "id": "TR_b0994eae",
+        "parent": "software",
+        "child": "software module"
+    },
+    {
+        "id": "TR_dc08a51f",
+        "parent": "software",
+        "child": "software script"
+    },
+    {
+        "id": "TR_713d068e",
+        "parent": "service process",
+        "child": "data curation service"
+    },
+    {
+        "id": "TR_156f84b9",
+        "parent": "service process",
+        "child": "storage service"
+    },
+    {
+        "id": "TR_24eff529",
+        "parent": "service process",
+        "child": "support service"
+    },
+    {
+        "id": "TR_550919dc",
+        "parent": "service process",
+        "child": "training service"
+    },
+    {
+        "id": "TR_5b1ec49e",
+        "parent": "website",
+        "child": "data portal"
+    },
+    {
+        "id": "TR_8b16d554",
+        "parent": "media type",
+        "child": "mime-type"
+    },
+    {
+        "id": "TR_c5cee8ad",
+        "parent": "academic discipline",
+        "child": "electrical engineering"
+    },
+    {
+        "id": "TR_ed76895e",
+        "parent": "academic discipline",
+        "child": "process engineering"
+    },
+    {
+        "id": "TR_b15b3afc",
+        "parent": "academic discipline",
+        "child": "humanity"
+    },
+    {
+        "id": "TR_c9294088",
+        "parent": "academic discipline",
+        "child": "social science"
+    },
+    {
+        "id": "TR_1f98e4d1",
+        "parent": "academic discipline",
+        "child": "biology"
+    },
+    {
+        "id": "TR_ec3d2499",
+        "parent": "academic discipline",
+        "child": "medicine"
+    },
+    {
+        "id": "TR_66da8dc1",
+        "parent": "academic discipline",
+        "child": "agriculture"
+    },
+    {
+        "id": "TR_20a6debc",
+        "parent": "academic discipline",
+        "child": "natural science"
+    },
+    {
+        "id": "TR_8dc695d7",
+        "parent": "academic discipline",
+        "child": "chemistry"
+    },
+    {
+        "id": "TR_9cd6f3d8",
+        "parent": "academic discipline",
+        "child": "physic"
+    },
+    {
+        "id": "TR_6c3a59a4",
+        "parent": "academic discipline",
+        "child": "mathematics"
+    },
+    {
+        "id": "TR_55c44d5f",
+        "parent": "academic discipline",
+        "child": "geoscience"
+    },
+    {
+        "id": "TR_e3acd6de",
+        "parent": "academic discipline",
+        "child": "mechanical engineering"
+    },
+    {
+        "id": "TR_1ca46d0d",
+        "parent": "academic discipline",
+        "child": "materials science"
+    },
+    {
+        "id": "TR_21cd75cd",
+        "parent": "academic discipline",
+        "child": "computer science"
+    },
+    {
+        "id": "TR_19f01581",
+        "parent": "academic discipline",
+        "child": "construction engineering"
+    },
+    {
+        "id": "TR_9f087ff7",
+        "parent": "specification",
+        "child": "standard"
+    },
+    {
+        "id": "TR_b815e972",
+        "parent": "nfdi resource",
+        "child": "service product"
+    },
+    {
+        "id": "TR_bb51f60e",
+        "parent": "event",
+        "child": "act of foundation"
+    },
+    {
+        "id": "TR_8f60a1ca",
+        "parent": "event",
+        "child": "act of dissolution"
+    },
+    {
+        "id": "TR_15b6591d",
+        "parent": "academic event",
+        "child": "workshop"
+    },
+    {
+        "id": "TR_58b9f366",
+        "parent": "academic event",
+        "child": "conference"
+    },
+    {
+        "id": "TR_04bb2519",
+        "parent": "academic event",
+        "child": "hackathon"
+    },
+    {
+        "id": "TR_65aaf5af",
+        "parent": "academic event",
+        "child": "lecture"
+    },
+    {
+        "id": "TR_1c65f6da",
+        "parent": "academic event",
+        "child": "course"
+    },
+    {
+        "id": "TR_a87276cf",
+        "parent": "academic event",
+        "child": "summer school"
+    },
+    {
+        "id": "TR_e007ee79",
+        "parent": "academic event",
+        "child": "seminar"
+    },
+    {
+        "id": "TR_1f8d9f15",
+        "parent": "academic event",
+        "child": "symposium"
+    },
+    {
+        "id": "TR_a73dc208",
+        "parent": "academic event",
+        "child": "panel discussion"
+    },
+    {
+        "id": "TR_aa1c3154",
+        "parent": "data handling process",
+        "child": "data producing process"
+    },
+    {
+        "id": "TR_7c282481",
+        "parent": "data handling process",
+        "child": "data processing process"
+    },
+    {
+        "id": "TR_bf204dd3",
+        "parent": "data handling process",
+        "child": "dataset creation process"
+    },
+    {
+        "id": "TR_7f64793f",
+        "parent": "data handling process",
+        "child": "dataset documenting process"
+    },
+    {
+        "id": "TR_4bc9c284",
+        "parent": "data handling process",
+        "child": "data cleaning process"
+    },
+    {
+        "id": "TR_d978a1f2",
+        "parent": "data handling process",
+        "child": "data transformation process"
+    },
+    {
+        "id": "TR_b8cde5b5",
+        "parent": "data handling process",
+        "child": "data integration process"
+    },
+    {
+        "id": "TR_1e4a3fe1",
+        "parent": "data handling process",
+        "child": "data storage process"
+    },
+    {
+        "id": "TR_2f4dfcb4",
+        "parent": "data handling process",
+        "child": "data visualization process"
+    }
+]

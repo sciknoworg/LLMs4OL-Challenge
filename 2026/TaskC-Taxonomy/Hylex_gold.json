@@ -1,0 +1,3287 @@
+[
+    {
+        "id": "TR_2e01db4f",
+        "parent": "physical reflection property",
+        "child": "absorptivity of particle"
+    },
+    {
+        "id": "TR_d45d4c9e",
+        "parent": "physical reflection property",
+        "child": "emissivity of particle"
+    },
+    {
+        "id": "TR_1909d873",
+        "parent": "physical reflection property",
+        "child": "inert gas property"
+    },
+    {
+        "id": "TR_a5b1dcc7",
+        "parent": "heat transfer property",
+        "child": "latent heat"
+    },
+    {
+        "id": "TR_78bbf97d",
+        "parent": "physical reflection property",
+        "child": "latent heat"
+    },
+    {
+        "id": "TR_e7ee32c9",
+        "parent": "fusion characteristic",
+        "child": "latent heat"
+    },
+    {
+        "id": "TR_41af7160",
+        "parent": "physical reflection property",
+        "child": "powder bed dimension"
+    },
+    {
+        "id": "TR_82b68e22",
+        "parent": "physical reflection property",
+        "child": "reflectivity of particle"
+    },
+    {
+        "id": "TR_0bee05d5",
+        "parent": "physical reflection property",
+        "child": "type of reflection"
+    },
+    {
+        "id": "TR_1cac5ea4",
+        "parent": "material vendor specification",
+        "child": "powder size distribution"
+    },
+    {
+        "id": "TR_c000548d",
+        "parent": "physical reflection property",
+        "child": "powder size distribution"
+    },
+    {
+        "id": "TR_0cf4e5f0",
+        "parent": "radiation transfer property",
+        "child": "powder size distribution"
+    },
+    {
+        "id": "TR_d130ba46",
+        "parent": "physical reflection property",
+        "child": "surface distribution of heat"
+    },
+    {
+        "id": "TR_1522ac50",
+        "parent": "radiation transfer property",
+        "child": "surface distribution of heat"
+    },
+    {
+        "id": "TR_cd399703",
+        "parent": "irradiation modeling assumption",
+        "child": "surface distribution of heat"
+    },
+    {
+        "id": "TR_f3acaf89",
+        "parent": "neumann b c",
+        "child": "adiabatic b c"
+    },
+    {
+        "id": "TR_1583c38d",
+        "parent": "neumann b c",
+        "child": "heat flux b c"
+    },
+    {
+        "id": "TR_efa3ec4f",
+        "parent": "density variation model",
+        "child": "amorphous density variation model"
+    },
+    {
+        "id": "TR_490f0d09",
+        "parent": "density variation model",
+        "child": "arrhenius type density variation model"
+    },
+    {
+        "id": "TR_57aadb5f",
+        "parent": "density variation model",
+        "child": "crystalline density variation model"
+    },
+    {
+        "id": "TR_c6b09f6a",
+        "parent": "density variation model",
+        "child": "amorphous density variation model"
+    },
+    {
+        "id": "TR_025ffd10",
+        "parent": "density variation model",
+        "child": "amorphous density variation model"
+    },
+    {
+        "id": "TR_5f04fa9d",
+        "parent": "density variation model",
+        "child": "amorphous density variation model"
+    },
+    {
+        "id": "TR_1189b4e2",
+        "parent": "density variation model",
+        "child": "amorphous density variation model"
+    },
+    {
+        "id": "TR_df18bcdc",
+        "parent": "density variation model",
+        "child": "amorphous density variation model"
+    },
+    {
+        "id": "TR_87c7674f",
+        "parent": "material selection",
+        "child": "amorphous material"
+    },
+    {
+        "id": "TR_e90d41b8",
+        "parent": "material",
+        "child": "amorphous material"
+    },
+    {
+        "id": "TR_2daac0a4",
+        "parent": "material selection",
+        "child": "crystalline material"
+    },
+    {
+        "id": "TR_2d6aaf1c",
+        "parent": "material",
+        "child": "crystalline material"
+    },
+    {
+        "id": "TR_76d3802c",
+        "parent": "material selection",
+        "child": "amorphous material"
+    },
+    {
+        "id": "TR_b5757224",
+        "parent": "material",
+        "child": "amorphous material"
+    },
+    {
+        "id": "TR_62b49d0d",
+        "parent": "material selection",
+        "child": "crystalline material"
+    },
+    {
+        "id": "TR_0cbbe92e",
+        "parent": "material",
+        "child": "crystalline material"
+    },
+    {
+        "id": "TR_fa11c3fb",
+        "parent": "amorphous material",
+        "child": "amorphous thermoplastic"
+    },
+    {
+        "id": "TR_9df5051e",
+        "parent": "amorphous material",
+        "child": "semi crystalline thermoplastic"
+    },
+    {
+        "id": "TR_2660ab58",
+        "parent": "heat transfer numerical method",
+        "child": "arbitrary lagrangian eulerian"
+    },
+    {
+        "id": "TR_369f9d0d",
+        "parent": "heat transfer numerical method",
+        "child": "finite element method"
+    },
+    {
+        "id": "TR_41a0c5f8",
+        "parent": "heat transfer numerical method",
+        "child": "finite volume method"
+    },
+    {
+        "id": "TR_46906264",
+        "parent": "heat transfer numerical method",
+        "child": "discrete element method"
+    },
+    {
+        "id": "TR_1fe5d77f",
+        "parent": "irradiation absorption numerical method",
+        "child": "discrete element method"
+    },
+    {
+        "id": "TR_ad4253c3",
+        "parent": "density variation model",
+        "child": "arrhenius type density variation model"
+    },
+    {
+        "id": "TR_388dc6f9",
+        "parent": "density variation model",
+        "child": "arrhenius type density variation model"
+    },
+    {
+        "id": "TR_ab10b636",
+        "parent": "density variation model",
+        "child": "arrhenius type density variation model"
+    },
+    {
+        "id": "TR_999b8d2d",
+        "parent": "density variation model",
+        "child": "arrhenius type density variation model"
+    },
+    {
+        "id": "TR_b1a3ba6d",
+        "parent": "density variation model",
+        "child": "arrhenius type density variation model"
+    },
+    {
+        "id": "TR_0cb54043",
+        "parent": "law of physics for consolidation",
+        "child": "atomic diffusion in crystal vacancies"
+    },
+    {
+        "id": "TR_b955ecac",
+        "parent": "law of physics for consolidation",
+        "child": "newtonian flow"
+    },
+    {
+        "id": "TR_a2d7d900",
+        "parent": "law of physics for consolidation",
+        "child": "non newtonian flow"
+    },
+    {
+        "id": "TR_905d65af",
+        "parent": "law of physics for consolidation",
+        "child": "temperature activated reaction"
+    },
+    {
+        "id": "TR_68fd3b68",
+        "parent": "law of physics for consolidation",
+        "child": "temperature dependent density"
+    },
+    {
+        "id": "TR_9c6a8541",
+        "parent": "consolidation by melting characteristic",
+        "child": "temperature dependent density"
+    },
+    {
+        "id": "TR_d639f514",
+        "parent": "boundary heat flux",
+        "child": "bed radiation"
+    },
+    {
+        "id": "TR_f6ff91a0",
+        "parent": "boundary heat flux",
+        "child": "bottom conduction"
+    },
+    {
+        "id": "TR_1e50f2ac",
+        "parent": "boundary heat flux",
+        "child": "sideway conduction"
+    },
+    {
+        "id": "TR_9a61aa5c",
+        "parent": "boundary heat flux",
+        "child": "surface convection"
+    },
+    {
+        "id": "TR_b27b9ac1",
+        "parent": "boundary heat flux",
+        "child": "bed radiation"
+    },
+    {
+        "id": "TR_33e660ec",
+        "parent": "boundary heat flux",
+        "child": "bed radiation"
+    },
+    {
+        "id": "TR_b0bac764",
+        "parent": "boundary heat flux",
+        "child": "bed radiation"
+    },
+    {
+        "id": "TR_bf358768",
+        "parent": "law of physics for irradiation absorption",
+        "child": "beer lambert law"
+    },
+    {
+        "id": "TR_1d90e2e0",
+        "parent": "law of physics for irradiation absorption",
+        "child": "physical reflection law"
+    },
+    {
+        "id": "TR_463265b8",
+        "parent": "law of physics for irradiation absorption",
+        "child": "radiation transfer law"
+    },
+    {
+        "id": "TR_ee4c84d8",
+        "parent": "law of physics for irradiation absorption",
+        "child": "beer lambert law"
+    },
+    {
+        "id": "TR_ca3631c6",
+        "parent": "law of physics for irradiation absorption",
+        "child": "beer lambert law"
+    },
+    {
+        "id": "TR_7d48ddd4",
+        "parent": "consolidation physical property",
+        "child": "boltzmann constant"
+    },
+    {
+        "id": "TR_1a30e422",
+        "parent": "consolidation physical property",
+        "child": "characteristic frequency"
+    },
+    {
+        "id": "TR_98b8a7bd",
+        "parent": "consolidation physical property",
+        "child": "crystal lattice constant"
+    },
+    {
+        "id": "TR_3dbb3c12",
+        "parent": "consolidation physical property",
+        "child": "diffusion coefficient"
+    },
+    {
+        "id": "TR_8d6bf9a7",
+        "parent": "consolidation physical property",
+        "child": "ideal gas constant"
+    },
+    {
+        "id": "TR_b41a363a",
+        "parent": "consolidation physical property",
+        "child": "melting temperature"
+    },
+    {
+        "id": "TR_e94470e3",
+        "parent": "heat transfer property",
+        "child": "melting temperature"
+    },
+    {
+        "id": "TR_7d14ad19",
+        "parent": "radiation transfer property",
+        "child": "melting temperature"
+    },
+    {
+        "id": "TR_ca469e48",
+        "parent": "fusion characteristic",
+        "child": "melting temperature"
+    },
+    {
+        "id": "TR_c6433681",
+        "parent": "material property",
+        "child": "melting temperature"
+    },
+    {
+        "id": "TR_16d6b84e",
+        "parent": "consolidation physical property",
+        "child": "number of pores per unit volume"
+    },
+    {
+        "id": "TR_de79476a",
+        "parent": "consolidation physical property",
+        "child": "sintering activation energy"
+    },
+    {
+        "id": "TR_ef148c90",
+        "parent": "model input",
+        "child": "sintering activation energy"
+    },
+    {
+        "id": "TR_c7cebefe",
+        "parent": "consolidation by sintering characteristic",
+        "child": "sintering activation energy"
+    },
+    {
+        "id": "TR_a75f3bf3",
+        "parent": "consolidation physical property",
+        "child": "surface tension"
+    },
+    {
+        "id": "TR_5c371404",
+        "parent": "consolidation physical property",
+        "child": "temperature"
+    },
+    {
+        "id": "TR_a8337435",
+        "parent": "thermal state variable",
+        "child": "temperature"
+    },
+    {
+        "id": "TR_3597eaf8",
+        "parent": "consolidation physical property",
+        "child": "tuning parameter"
+    },
+    {
+        "id": "TR_3b1c62ae",
+        "parent": "consolidation physical property",
+        "child": "viscosity"
+    },
+    {
+        "id": "TR_296cd2b9",
+        "parent": "model variable",
+        "child": "viscosity"
+    },
+    {
+        "id": "TR_333ee962",
+        "parent": "thermal boundary condition",
+        "child": "bottom boundary condition"
+    },
+    {
+        "id": "TR_cb620e02",
+        "parent": "thermal boundary condition",
+        "child": "side boundary condition"
+    },
+    {
+        "id": "TR_9a77aee0",
+        "parent": "thermal boundary condition",
+        "child": "top boundary condition"
+    },
+    {
+        "id": "TR_fc80371b",
+        "parent": "thermal model prediction",
+        "child": "boundary heat flux"
+    },
+    {
+        "id": "TR_2d40c6ed",
+        "parent": "thermal model prediction",
+        "child": "heat transfer model prediction"
+    },
+    {
+        "id": "TR_2bbf484b",
+        "parent": "thermal model prediction",
+        "child": "irradiation absorption model prediction"
+    },
+    {
+        "id": "TR_8123b000",
+        "parent": "material property",
+        "child": "bulk material property"
+    },
+    {
+        "id": "TR_679e207f",
+        "parent": "material property",
+        "child": "liquidus temperature"
+    },
+    {
+        "id": "TR_1ed0bccb",
+        "parent": "consolidation physical property",
+        "child": "melting temperature"
+    },
+    {
+        "id": "TR_687e3631",
+        "parent": "heat transfer property",
+        "child": "melting temperature"
+    },
+    {
+        "id": "TR_7781292d",
+        "parent": "radiation transfer property",
+        "child": "melting temperature"
+    },
+    {
+        "id": "TR_76e1966a",
+        "parent": "fusion characteristic",
+        "child": "melting temperature"
+    },
+    {
+        "id": "TR_1e6c7ee7",
+        "parent": "material property",
+        "child": "melting temperature"
+    },
+    {
+        "id": "TR_e9b0b895",
+        "parent": "material property",
+        "child": "powder material property"
+    },
+    {
+        "id": "TR_751807e0",
+        "parent": "material property",
+        "child": "solidus temperature"
+    },
+    {
+        "id": "TR_99148d26",
+        "parent": "heat transfer property",
+        "child": "thermal diffusivity"
+    },
+    {
+        "id": "TR_199fefa1",
+        "parent": "transport property assumption",
+        "child": "thermal diffusivity"
+    },
+    {
+        "id": "TR_7998cb66",
+        "parent": "heat dissipation characteristic",
+        "child": "thermal diffusivity"
+    },
+    {
+        "id": "TR_68ec1082",
+        "parent": "material property",
+        "child": "thermal diffusivity"
+    },
+    {
+        "id": "TR_4c308652",
+        "parent": "material property",
+        "child": "vaporization temperature"
+    },
+    {
+        "id": "TR_37ef2e17",
+        "parent": "vaporization characteristic",
+        "child": "vaporization temperature"
+    },
+    {
+        "id": "TR_c11b89ff",
+        "parent": "crystalline material",
+        "child": "ceramic"
+    },
+    {
+        "id": "TR_b1d8322f",
+        "parent": "crystalline material",
+        "child": "hard metal"
+    },
+    {
+        "id": "TR_b8afa3e6",
+        "parent": "crystalline material",
+        "child": "metal alloy"
+    },
+    {
+        "id": "TR_ab9ed64a",
+        "parent": "crystalline material",
+        "child": "metallic crystalline"
+    },
+    {
+        "id": "TR_635fdef5",
+        "parent": "consolidation model",
+        "child": "consolidation by melting model"
+    },
+    {
+        "id": "TR_bb45ad88",
+        "parent": "consolidation model",
+        "child": "consolidation by sintering model"
+    },
+    {
+        "id": "TR_e215dc7e",
+        "parent": "consolidation model",
+        "child": "consolidation by melting model"
+    },
+    {
+        "id": "TR_9e0e4e96",
+        "parent": "consolidation model",
+        "child": "consolidation by melting model"
+    },
+    {
+        "id": "TR_84c073c2",
+        "parent": "consolidation model",
+        "child": "consolidation by melting model"
+    },
+    {
+        "id": "TR_90ae624f",
+        "parent": "consolidation model",
+        "child": "consolidation by melting model"
+    },
+    {
+        "id": "TR_e80c6050",
+        "parent": "consolidation modeling assumption",
+        "child": "consolidation initial condition"
+    },
+    {
+        "id": "TR_5740c0b4",
+        "parent": "consolidation modeling assumption",
+        "child": "consolidation mechanism"
+    },
+    {
+        "id": "TR_458dbfb2",
+        "parent": "consolidation modeling assumption",
+        "child": "consolidation state variable"
+    },
+    {
+        "id": "TR_713c37a5",
+        "parent": "consolidation modeling assumption",
+        "child": "law of physics for consolidation"
+    },
+    {
+        "id": "TR_a175648b",
+        "parent": "consolidation modeling assumption",
+        "child": "material selection"
+    },
+    {
+        "id": "TR_8d043e85",
+        "parent": "modeling assumption",
+        "child": "consolidation modeling assumption"
+    },
+    {
+        "id": "TR_85f45114",
+        "parent": "modeling assumption",
+        "child": "thermal modeling assumption"
+    },
+    {
+        "id": "TR_d069b90b",
+        "parent": "physical property",
+        "child": "consolidation physical property"
+    },
+    {
+        "id": "TR_3025c75b",
+        "parent": "physical property",
+        "child": "thermal physical property"
+    },
+    {
+        "id": "TR_e0214ec2",
+        "parent": "model variable",
+        "child": "cooling rate"
+    },
+    {
+        "id": "TR_f97e58b2",
+        "parent": "model variable",
+        "child": "local solidification time"
+    },
+    {
+        "id": "TR_c68534ad",
+        "parent": "model variable",
+        "child": "sintering rate"
+    },
+    {
+        "id": "TR_3be86f27",
+        "parent": "model variable",
+        "child": "substrate temperature"
+    },
+    {
+        "id": "TR_05f73404",
+        "parent": "heat transfer property",
+        "child": "thermal conductivity in powder bed"
+    },
+    {
+        "id": "TR_c0b68a37",
+        "parent": "model variable",
+        "child": "thermal conductivity in powder bed"
+    },
+    {
+        "id": "TR_44c585a8",
+        "parent": "radiation transfer property",
+        "child": "thermal conductivity in powder bed"
+    },
+    {
+        "id": "TR_3bcc983a",
+        "parent": "transport property assumption",
+        "child": "thermal conductivity in powder bed"
+    },
+    {
+        "id": "TR_2dbc5187",
+        "parent": "heat dissipation characteristic",
+        "child": "thermal conductivity in powder bed"
+    },
+    {
+        "id": "TR_15630a21",
+        "parent": "model variable",
+        "child": "thermal gradient distribution"
+    },
+    {
+        "id": "TR_c278dfb6",
+        "parent": "consolidation physical property",
+        "child": "viscosity"
+    },
+    {
+        "id": "TR_5cef4c43",
+        "parent": "model variable",
+        "child": "viscosity"
+    },
+    {
+        "id": "TR_03cc0aaf",
+        "parent": "model variable",
+        "child": "cooling rate"
+    },
+    {
+        "id": "TR_95e1210d",
+        "parent": "density variation model",
+        "child": "crystalline density variation model"
+    },
+    {
+        "id": "TR_f61677b7",
+        "parent": "density variation model",
+        "child": "crystalline density variation model"
+    },
+    {
+        "id": "TR_369b9528",
+        "parent": "density variation model",
+        "child": "crystalline density variation model"
+    },
+    {
+        "id": "TR_5f5e23f7",
+        "parent": "density variation model",
+        "child": "crystalline density variation model"
+    },
+    {
+        "id": "TR_5e7a3637",
+        "parent": "density variation model",
+        "child": "crystalline density variation model"
+    },
+    {
+        "id": "TR_596dfdfd",
+        "parent": "type of reflection",
+        "child": "diffuse reflection"
+    },
+    {
+        "id": "TR_ba8d5731",
+        "parent": "type of reflection",
+        "child": "specular reflection"
+    },
+    {
+        "id": "TR_df2a88fc",
+        "parent": "bottom boundary condition",
+        "child": "dirichlet b c"
+    },
+    {
+        "id": "TR_3d7d07d1",
+        "parent": "side boundary condition",
+        "child": "dirichlet b c"
+    },
+    {
+        "id": "TR_aea7cc13",
+        "parent": "bottom boundary condition",
+        "child": "neumann b c"
+    },
+    {
+        "id": "TR_eb250e51",
+        "parent": "side boundary condition",
+        "child": "neumann b c"
+    },
+    {
+        "id": "TR_40ebeb06",
+        "parent": "bottom boundary condition",
+        "child": "dirichlet b c"
+    },
+    {
+        "id": "TR_b88129fc",
+        "parent": "side boundary condition",
+        "child": "dirichlet b c"
+    },
+    {
+        "id": "TR_078dd67d",
+        "parent": "bottom boundary condition",
+        "child": "neumann b c"
+    },
+    {
+        "id": "TR_f3ac6ef7",
+        "parent": "side boundary condition",
+        "child": "neumann b c"
+    },
+    {
+        "id": "TR_85371198",
+        "parent": "law of physics for heat transfer",
+        "child": "energy conservation law"
+    },
+    {
+        "id": "TR_c8fb1e3d",
+        "parent": "law of physics for heat transfer",
+        "child": "fouriers law"
+    },
+    {
+        "id": "TR_9a42a248",
+        "parent": "thermal state variable",
+        "child": "enthalpy"
+    },
+    {
+        "id": "TR_b90bb414",
+        "parent": "consolidation physical property",
+        "child": "temperature"
+    },
+    {
+        "id": "TR_0f9564cc",
+        "parent": "thermal state variable",
+        "child": "temperature"
+    },
+    {
+        "id": "TR_85d058cf",
+        "parent": "reference frame assumption",
+        "child": "fixed frame"
+    },
+    {
+        "id": "TR_952fa768",
+        "parent": "reference frame assumption",
+        "child": "moving frame"
+    },
+    {
+        "id": "TR_8d4a26bf",
+        "parent": "equation",
+        "child": "frenkels model"
+    },
+    {
+        "id": "TR_d5b51e0e",
+        "parent": "equation",
+        "child": "beer lambert model"
+    },
+    {
+        "id": "TR_6bc67144",
+        "parent": "equation",
+        "child": "density variation model"
+    },
+    {
+        "id": "TR_a26010b9",
+        "parent": "equation",
+        "child": "fouriers model"
+    },
+    {
+        "id": "TR_405bfdd7",
+        "parent": "equation",
+        "child": "radiation transfer model"
+    },
+    {
+        "id": "TR_64b34fcd",
+        "parent": "equation",
+        "child": "ray tracing model"
+    },
+    {
+        "id": "TR_89066386",
+        "parent": "equation",
+        "child": "frenkels model"
+    },
+    {
+        "id": "TR_79914e6f",
+        "parent": "equation",
+        "child": "frenkels model"
+    },
+    {
+        "id": "TR_c88eef8d",
+        "parent": "equation",
+        "child": "frenkels model"
+    },
+    {
+        "id": "TR_47a3358f",
+        "parent": "equation",
+        "child": "frenkels model"
+    },
+    {
+        "id": "TR_4ff2147d",
+        "parent": "equation",
+        "child": "frenkels model"
+    },
+    {
+        "id": "TR_48aecb59",
+        "parent": "melting",
+        "child": "full melting"
+    },
+    {
+        "id": "TR_0b87658d",
+        "parent": "melting",
+        "child": "partial melting"
+    },
+    {
+        "id": "TR_0d71ef52",
+        "parent": "consolidation by sintering characteristic",
+        "child": "fully sintered density"
+    },
+    {
+        "id": "TR_be41c060",
+        "parent": "consolidation by sintering characteristic",
+        "child": "loose powder density"
+    },
+    {
+        "id": "TR_17d5a65e",
+        "parent": "consolidation physical property",
+        "child": "sintering activation energy"
+    },
+    {
+        "id": "TR_5c41c735",
+        "parent": "model input",
+        "child": "sintering activation energy"
+    },
+    {
+        "id": "TR_6c46559d",
+        "parent": "consolidation by sintering characteristic",
+        "child": "sintering activation energy"
+    },
+    {
+        "id": "TR_12b39a67",
+        "parent": "phase transformation characteristic",
+        "child": "glass transition temperature"
+    },
+    {
+        "id": "TR_84f8311e",
+        "parent": "phase transformation characteristic",
+        "child": "fusion characteristic"
+    },
+    {
+        "id": "TR_ca1f1c80",
+        "parent": "phase transformation characteristic",
+        "child": "vaporization characteristic"
+    },
+    {
+        "id": "TR_c26ebaf5",
+        "parent": "numerical method",
+        "child": "heat transfer numerical method"
+    },
+    {
+        "id": "TR_27230509",
+        "parent": "numerical method",
+        "child": "irradiation absorption numerical method"
+    },
+    {
+        "id": "TR_ac9f1066",
+        "parent": "thermal physical property",
+        "child": "heat transfer property"
+    },
+    {
+        "id": "TR_df02f65c",
+        "parent": "thermal physical property",
+        "child": "irradiation absorption property"
+    },
+    {
+        "id": "TR_718e9f9f",
+        "parent": "heat transfer modeling assumption",
+        "child": "inclusion of absorbed heat"
+    },
+    {
+        "id": "TR_9349d787",
+        "parent": "heat transfer modeling assumption",
+        "child": "law of physics for heat transfer"
+    },
+    {
+        "id": "TR_878a7354",
+        "parent": "heat transfer modeling assumption",
+        "child": "phase transformation assumption"
+    },
+    {
+        "id": "TR_82199803",
+        "parent": "heat transfer modeling assumption",
+        "child": "reference frame assumption"
+    },
+    {
+        "id": "TR_ab30e532",
+        "parent": "heat transfer modeling assumption",
+        "child": "substrate modeling assumption"
+    },
+    {
+        "id": "TR_570a8e9b",
+        "parent": "heat transfer modeling assumption",
+        "child": "thermal boundary condition"
+    },
+    {
+        "id": "TR_68cc4ff2",
+        "parent": "heat transfer modeling assumption",
+        "child": "thermal initial condition"
+    },
+    {
+        "id": "TR_fa02844c",
+        "parent": "heat transfer modeling assumption",
+        "child": "thermal state variable"
+    },
+    {
+        "id": "TR_d20d077c",
+        "parent": "heat transfer modeling assumption",
+        "child": "transport property assumption"
+    },
+    {
+        "id": "TR_1c31e6da",
+        "parent": "heat transfer modeling assumption",
+        "child": "dimensionality of absorbed heat"
+    },
+    {
+        "id": "TR_243cc18b",
+        "parent": "irradiation absorption modeling assumption",
+        "child": "dimensionality of absorbed heat"
+    },
+    {
+        "id": "TR_8183ca34",
+        "parent": "heat transfer modeling assumption",
+        "child": "dimensionality of physical system"
+    },
+    {
+        "id": "TR_c34e55c4",
+        "parent": "irradiation absorption modeling assumption",
+        "child": "dimensionality of physical system"
+    },
+    {
+        "id": "TR_f546297a",
+        "parent": "heat transfer modeling assumption",
+        "child": "material distribution"
+    },
+    {
+        "id": "TR_6d5013c6",
+        "parent": "irradiation absorption modeling assumption",
+        "child": "material distribution"
+    },
+    {
+        "id": "TR_d375193d",
+        "parent": "inclusion of absorbed heat",
+        "child": "inclusion of heat as boundary condition"
+    },
+    {
+        "id": "TR_79026ab3",
+        "parent": "inclusion of absorbed heat",
+        "child": "inclusion of heat as source term"
+    },
+    {
+        "id": "TR_1727ff67",
+        "parent": "inclusion of absorbed heat",
+        "child": "inclusion of heat as boundary condition"
+    },
+    {
+        "id": "TR_816bef86",
+        "parent": "thermal initial condition",
+        "child": "initial distribution of enthalpy"
+    },
+    {
+        "id": "TR_954d9b07",
+        "parent": "thermal initial condition",
+        "child": "initial distribution of temperature"
+    },
+    {
+        "id": "TR_f2a51e75",
+        "parent": "consolidation initial condition",
+        "child": "initial volume"
+    },
+    {
+        "id": "TR_7010afb6",
+        "parent": "consolidation initial condition",
+        "child": "initial powder density"
+    },
+    {
+        "id": "TR_6184a3ba",
+        "parent": "dirichlet b c",
+        "child": "iso thermal b c"
+    },
+    {
+        "id": "TR_ceea1f41",
+        "parent": "dirichlet b c",
+        "child": "semi infinite b c"
+    },
+    {
+        "id": "TR_22157fe8",
+        "parent": "heat transfer property",
+        "child": "latent heat"
+    },
+    {
+        "id": "TR_f88c9e31",
+        "parent": "physical reflection property",
+        "child": "latent heat"
+    },
+    {
+        "id": "TR_e9f66cc9",
+        "parent": "fusion characteristic",
+        "child": "latent heat"
+    },
+    {
+        "id": "TR_3acfc88b",
+        "parent": "consolidation physical property",
+        "child": "melting temperature"
+    },
+    {
+        "id": "TR_25af47fc",
+        "parent": "heat transfer property",
+        "child": "melting temperature"
+    },
+    {
+        "id": "TR_5ff6e9d8",
+        "parent": "radiation transfer property",
+        "child": "melting temperature"
+    },
+    {
+        "id": "TR_9991feea",
+        "parent": "fusion characteristic",
+        "child": "melting temperature"
+    },
+    {
+        "id": "TR_20475c9d",
+        "parent": "material property",
+        "child": "melting temperature"
+    },
+    {
+        "id": "TR_7edf2f45",
+        "parent": "consolidation state variable",
+        "child": "powder density"
+    },
+    {
+        "id": "TR_20949c41",
+        "parent": "heat transfer property",
+        "child": "powder density"
+    },
+    {
+        "id": "TR_861f4503",
+        "parent": "bulk material property",
+        "child": "specific heat"
+    },
+    {
+        "id": "TR_4627cb1a",
+        "parent": "heat transfer property",
+        "child": "specific heat"
+    },
+    {
+        "id": "TR_7dc33aac",
+        "parent": "heat transfer property",
+        "child": "thermal conductivity in powder bed"
+    },
+    {
+        "id": "TR_a6b6deb3",
+        "parent": "model variable",
+        "child": "thermal conductivity in powder bed"
+    },
+    {
+        "id": "TR_a6696b17",
+        "parent": "radiation transfer property",
+        "child": "thermal conductivity in powder bed"
+    },
+    {
+        "id": "TR_453e7a34",
+        "parent": "transport property assumption",
+        "child": "thermal conductivity in powder bed"
+    },
+    {
+        "id": "TR_ac632a55",
+        "parent": "heat dissipation characteristic",
+        "child": "thermal conductivity in powder bed"
+    },
+    {
+        "id": "TR_96f1c29d",
+        "parent": "heat transfer property",
+        "child": "thermal diffusivity"
+    },
+    {
+        "id": "TR_f398facc",
+        "parent": "transport property assumption",
+        "child": "thermal diffusivity"
+    },
+    {
+        "id": "TR_4ce8ea25",
+        "parent": "heat dissipation characteristic",
+        "child": "thermal diffusivity"
+    },
+    {
+        "id": "TR_d11f0bc7",
+        "parent": "material property",
+        "child": "thermal diffusivity"
+    },
+    {
+        "id": "TR_33693386",
+        "parent": "heat transfer property",
+        "child": "fluid velocity"
+    },
+    {
+        "id": "TR_6de98ba4",
+        "parent": "fluid mechanics model prediction",
+        "child": "fluid velocity"
+    },
+    {
+        "id": "TR_2c86d1b0",
+        "parent": "heat transfer property",
+        "child": "surface distribution of absorbed heat"
+    },
+    {
+        "id": "TR_54baf5f3",
+        "parent": "dimensionality of absorbed heat",
+        "child": "surface distribution of absorbed heat"
+    },
+    {
+        "id": "TR_e40f8f81",
+        "parent": "irradiation absorption model prediction",
+        "child": "surface distribution of absorbed heat"
+    },
+    {
+        "id": "TR_2070cba1",
+        "parent": "heat transfer property",
+        "child": "volumetric distribution of absorbed heat"
+    },
+    {
+        "id": "TR_54392cb2",
+        "parent": "dimensionality of absorbed heat",
+        "child": "volumetric distribution of absorbed heat"
+    },
+    {
+        "id": "TR_ae2e879e",
+        "parent": "irradiation absorption model prediction",
+        "child": "volumetric distribution of absorbed heat"
+    },
+    {
+        "id": "TR_f9adf9ca",
+        "parent": "heat transfer property",
+        "child": "latent heat"
+    },
+    {
+        "id": "TR_99e58ed4",
+        "parent": "physical reflection property",
+        "child": "latent heat"
+    },
+    {
+        "id": "TR_377d6669",
+        "parent": "fusion characteristic",
+        "child": "latent heat"
+    },
+    {
+        "id": "TR_091320bf",
+        "parent": "consolidation physical property",
+        "child": "melting temperature"
+    },
+    {
+        "id": "TR_a1c77a5f",
+        "parent": "heat transfer property",
+        "child": "melting temperature"
+    },
+    {
+        "id": "TR_d6fa5829",
+        "parent": "radiation transfer property",
+        "child": "melting temperature"
+    },
+    {
+        "id": "TR_73a974bd",
+        "parent": "fusion characteristic",
+        "child": "melting temperature"
+    },
+    {
+        "id": "TR_54baec22",
+        "parent": "material property",
+        "child": "melting temperature"
+    },
+    {
+        "id": "TR_2f477a1a",
+        "parent": "irradiation absorption modeling assumption",
+        "child": "law of physics for irradiation absorption"
+    },
+    {
+        "id": "TR_7b805498",
+        "parent": "heat transfer modeling assumption",
+        "child": "dimensionality of absorbed heat"
+    },
+    {
+        "id": "TR_b57e6245",
+        "parent": "irradiation absorption modeling assumption",
+        "child": "dimensionality of absorbed heat"
+    },
+    {
+        "id": "TR_5c960920",
+        "parent": "heat transfer modeling assumption",
+        "child": "dimensionality of physical system"
+    },
+    {
+        "id": "TR_5e1748ea",
+        "parent": "irradiation absorption modeling assumption",
+        "child": "dimensionality of physical system"
+    },
+    {
+        "id": "TR_ed1f2a43",
+        "parent": "irradiation absorption modeling assumption",
+        "child": "irradiation modeling assumption"
+    },
+    {
+        "id": "TR_40bff5d2",
+        "parent": "heat transfer modeling assumption",
+        "child": "material distribution"
+    },
+    {
+        "id": "TR_5b50e53e",
+        "parent": "irradiation absorption modeling assumption",
+        "child": "material distribution"
+    },
+    {
+        "id": "TR_6ed52975",
+        "parent": "model variable",
+        "child": "local solidification time"
+    },
+    {
+        "id": "TR_37806ca6",
+        "parent": "powder bed fusion process parameter",
+        "child": "material vendor specification"
+    },
+    {
+        "id": "TR_6d877dcb",
+        "parent": "powder bed fusion process parameter",
+        "child": "equipment parameter"
+    },
+    {
+        "id": "TR_d5af998b",
+        "parent": "powder bed fusion process parameter",
+        "child": "hatching distance"
+    },
+    {
+        "id": "TR_fe4840d0",
+        "parent": "irradiation modeling assumption",
+        "child": "heat source power"
+    },
+    {
+        "id": "TR_aba936b5",
+        "parent": "powder bed fusion process parameter",
+        "child": "heat source power"
+    },
+    {
+        "id": "TR_b6ddac5e",
+        "parent": "powder bed fusion process parameter",
+        "child": "layer thickness"
+    },
+    {
+        "id": "TR_f7b9852d",
+        "parent": "powder bed fusion process parameter",
+        "child": "scanning speed"
+    },
+    {
+        "id": "TR_6a33b148",
+        "parent": "consolidation mechanism",
+        "child": "melting"
+    },
+    {
+        "id": "TR_27ef1483",
+        "parent": "consolidation mechanism",
+        "child": "solid state sintering"
+    },
+    {
+        "id": "TR_829ace59",
+        "parent": "radiation transfer property",
+        "child": "melting point"
+    },
+    {
+        "id": "TR_7f0ef368",
+        "parent": "consolidation physical property",
+        "child": "melting temperature"
+    },
+    {
+        "id": "TR_9c120222",
+        "parent": "heat transfer property",
+        "child": "melting temperature"
+    },
+    {
+        "id": "TR_a2297684",
+        "parent": "radiation transfer property",
+        "child": "melting temperature"
+    },
+    {
+        "id": "TR_a0a66d13",
+        "parent": "fusion characteristic",
+        "child": "melting temperature"
+    },
+    {
+        "id": "TR_74d62461",
+        "parent": "material property",
+        "child": "melting temperature"
+    },
+    {
+        "id": "TR_c81b813e",
+        "parent": "radiation transfer property",
+        "child": "specular reflectivity"
+    },
+    {
+        "id": "TR_776fac13",
+        "parent": "heat transfer property",
+        "child": "thermal conductivity in powder bed"
+    },
+    {
+        "id": "TR_28c396f8",
+        "parent": "model variable",
+        "child": "thermal conductivity in powder bed"
+    },
+    {
+        "id": "TR_de570271",
+        "parent": "radiation transfer property",
+        "child": "thermal conductivity in powder bed"
+    },
+    {
+        "id": "TR_342e6af3",
+        "parent": "transport property assumption",
+        "child": "thermal conductivity in powder bed"
+    },
+    {
+        "id": "TR_3b67f75c",
+        "parent": "heat dissipation characteristic",
+        "child": "thermal conductivity in powder bed"
+    },
+    {
+        "id": "TR_7bf3c182",
+        "parent": "material vendor specification",
+        "child": "powder size distribution"
+    },
+    {
+        "id": "TR_d48f7dc7",
+        "parent": "physical reflection property",
+        "child": "powder size distribution"
+    },
+    {
+        "id": "TR_d0bc8b8e",
+        "parent": "radiation transfer property",
+        "child": "powder size distribution"
+    },
+    {
+        "id": "TR_aefc1353",
+        "parent": "physical reflection property",
+        "child": "surface distribution of heat"
+    },
+    {
+        "id": "TR_8f759ebe",
+        "parent": "radiation transfer property",
+        "child": "surface distribution of heat"
+    },
+    {
+        "id": "TR_dbe05133",
+        "parent": "irradiation modeling assumption",
+        "child": "surface distribution of heat"
+    },
+    {
+        "id": "TR_4e7c4b52",
+        "parent": "phenomenon",
+        "child": "microstructural phenomenon"
+    },
+    {
+        "id": "TR_5344f190",
+        "parent": "phenomenon",
+        "child": "structural phenomenon"
+    },
+    {
+        "id": "TR_aecb8eb3",
+        "parent": "phenomenon",
+        "child": "thermal phenomenon"
+    },
+    {
+        "id": "TR_7cdcac17",
+        "parent": "phenomenon",
+        "child": "consolidation"
+    },
+    {
+        "id": "TR_d19292dd",
+        "parent": "phenomenon",
+        "child": "fluid mechanics"
+    },
+    {
+        "id": "TR_94aa3e91",
+        "parent": "top boundary condition",
+        "child": "mixed b c"
+    },
+    {
+        "id": "TR_147c1669",
+        "parent": "top boundary condition",
+        "child": "mixed b c"
+    },
+    {
+        "id": "TR_53c743dc",
+        "parent": "top boundary condition",
+        "child": "mixed b c"
+    },
+    {
+        "id": "TR_e178cff4",
+        "parent": "top boundary condition",
+        "child": "mixed b c"
+    },
+    {
+        "id": "TR_f3a0e5df",
+        "parent": "model element",
+        "child": "model input"
+    },
+    {
+        "id": "TR_567d9473",
+        "parent": "model element",
+        "child": "model variable"
+    },
+    {
+        "id": "TR_587b2919",
+        "parent": "model element",
+        "child": "physical property"
+    },
+    {
+        "id": "TR_b9f997c5",
+        "parent": "model element",
+        "child": "equation"
+    },
+    {
+        "id": "TR_5f2a5360",
+        "parent": "model element",
+        "child": "modeling assumption"
+    },
+    {
+        "id": "TR_2ee63db1",
+        "parent": "model element",
+        "child": "numerical method"
+    },
+    {
+        "id": "TR_920d5463",
+        "parent": "model element",
+        "child": "prediction"
+    },
+    {
+        "id": "TR_86935ef9",
+        "parent": "model element",
+        "child": "physical property"
+    },
+    {
+        "id": "TR_c43ffe6c",
+        "parent": "law of physics for irradiation absorption",
+        "child": "physical reflection law"
+    },
+    {
+        "id": "TR_35742c2b",
+        "parent": "law of physics for irradiation absorption",
+        "child": "physical reflection law"
+    },
+    {
+        "id": "TR_1e9d8de8",
+        "parent": "irradiation absorption property",
+        "child": "physical reflection property"
+    },
+    {
+        "id": "TR_c4ad2e92",
+        "parent": "irradiation absorption property",
+        "child": "radiation transfer property"
+    },
+    {
+        "id": "TR_ea83e53b",
+        "parent": "consolidation state variable",
+        "child": "porosity"
+    },
+    {
+        "id": "TR_2bb67584",
+        "parent": "consolidation state variable",
+        "child": "powder density"
+    },
+    {
+        "id": "TR_5eedb04b",
+        "parent": "heat transfer property",
+        "child": "powder density"
+    },
+    {
+        "id": "TR_22701a86",
+        "parent": "consolidation state variable",
+        "child": "volume"
+    },
+    {
+        "id": "TR_2ca77545",
+        "parent": "law of physics for irradiation absorption",
+        "child": "radiation transfer law"
+    },
+    {
+        "id": "TR_707491ee",
+        "parent": "law of physics for irradiation absorption",
+        "child": "radiation transfer law"
+    },
+    {
+        "id": "TR_6b630210",
+        "parent": "fouriers model",
+        "child": "rosenthal type heat transfer model"
+    },
+    {
+        "id": "TR_3052471a",
+        "parent": "fouriers model",
+        "child": "transport equation for enthalpy"
+    },
+    {
+        "id": "TR_8d1bf322",
+        "parent": "fouriers model",
+        "child": "transport equation for temperature"
+    },
+    {
+        "id": "TR_799fea02",
+        "parent": "fouriers model",
+        "child": "rosenthal type heat transfer model"
+    },
+    {
+        "id": "TR_aa78d38a",
+        "parent": "fouriers model",
+        "child": "rosenthal type heat transfer model"
+    },
+    {
+        "id": "TR_706c36b1",
+        "parent": "fouriers model",
+        "child": "rosenthal type heat transfer model"
+    },
+    {
+        "id": "TR_00339eaf",
+        "parent": "fouriers model",
+        "child": "rosenthal type heat transfer model"
+    },
+    {
+        "id": "TR_09834953",
+        "parent": "fouriers model",
+        "child": "rosenthal type heat transfer model"
+    },
+    {
+        "id": "TR_fb0d7e60",
+        "parent": "fouriers model",
+        "child": "rosenthal type heat transfer model"
+    },
+    {
+        "id": "TR_95d87c61",
+        "parent": "fouriers model",
+        "child": "rosenthal type heat transfer model"
+    },
+    {
+        "id": "TR_64bc2a6b",
+        "parent": "consolidation physical property",
+        "child": "sintering activation energy"
+    },
+    {
+        "id": "TR_4b8db8ae",
+        "parent": "model input",
+        "child": "sintering activation energy"
+    },
+    {
+        "id": "TR_ceb8d8ef",
+        "parent": "consolidation by sintering characteristic",
+        "child": "sintering activation energy"
+    },
+    {
+        "id": "TR_4e9377c7",
+        "parent": "model input",
+        "child": "material property"
+    },
+    {
+        "id": "TR_e4905c4e",
+        "parent": "model variable",
+        "child": "sintering rate"
+    },
+    {
+        "id": "TR_98611054",
+        "parent": "model variable",
+        "child": "sintering rate"
+    },
+    {
+        "id": "TR_e87e3d01",
+        "parent": "model variable",
+        "child": "sintering rate"
+    },
+    {
+        "id": "TR_23888a9c",
+        "parent": "bulk material property",
+        "child": "specific heat"
+    },
+    {
+        "id": "TR_bcf3fade",
+        "parent": "heat transfer property",
+        "child": "specific heat"
+    },
+    {
+        "id": "TR_c8b91425",
+        "parent": "bulk material property",
+        "child": "thermal conductivity of the bulk material"
+    },
+    {
+        "id": "TR_ef47d3d0",
+        "parent": "bulk material property",
+        "child": "density of bulk material"
+    },
+    {
+        "id": "TR_0e2b6c11",
+        "parent": "bulk material property",
+        "child": "elastic modulus"
+    },
+    {
+        "id": "TR_abed5723",
+        "parent": "bulk material property",
+        "child": "poissons ratio"
+    },
+    {
+        "id": "TR_3fe258d9",
+        "parent": "bulk material property",
+        "child": "radiative property"
+    },
+    {
+        "id": "TR_3d914570",
+        "parent": "bulk material property",
+        "child": "thermal conductivity of the substrate"
+    },
+    {
+        "id": "TR_bdb746ec",
+        "parent": "bulk material property",
+        "child": "specific heat"
+    },
+    {
+        "id": "TR_4bb3f175",
+        "parent": "heat transfer property",
+        "child": "specific heat"
+    },
+    {
+        "id": "TR_4b5e5e0b",
+        "parent": "boundary heat flux",
+        "child": "surface convection"
+    },
+    {
+        "id": "TR_dd58ce87",
+        "parent": "boundary heat flux",
+        "child": "surface convection"
+    },
+    {
+        "id": "TR_db79ca84",
+        "parent": "boundary heat flux",
+        "child": "surface convection"
+    },
+    {
+        "id": "TR_14af01ae",
+        "parent": "law of physics for consolidation",
+        "child": "temperature dependent density"
+    },
+    {
+        "id": "TR_7b51487c",
+        "parent": "consolidation by melting characteristic",
+        "child": "temperature dependent density"
+    },
+    {
+        "id": "TR_598ae964",
+        "parent": "consolidation model prediction",
+        "child": "temperature dependent porosity"
+    },
+    {
+        "id": "TR_4142670f",
+        "parent": "consolidation model prediction",
+        "child": "temperature dependent powder density"
+    },
+    {
+        "id": "TR_4cb6dad6",
+        "parent": "consolidation model prediction",
+        "child": "volume distribution"
+    },
+    {
+        "id": "TR_9ca5b0a7",
+        "parent": "consolidation model prediction",
+        "child": "density distribution"
+    },
+    {
+        "id": "TR_41922aac",
+        "parent": "consolidation model prediction",
+        "child": "porosity distribution"
+    },
+    {
+        "id": "TR_77962041",
+        "parent": "heat transfer property",
+        "child": "thermal conductivity in powder bed"
+    },
+    {
+        "id": "TR_81a93c6d",
+        "parent": "model variable",
+        "child": "thermal conductivity in powder bed"
+    },
+    {
+        "id": "TR_c1dbc0d7",
+        "parent": "radiation transfer property",
+        "child": "thermal conductivity in powder bed"
+    },
+    {
+        "id": "TR_255a345c",
+        "parent": "transport property assumption",
+        "child": "thermal conductivity in powder bed"
+    },
+    {
+        "id": "TR_1edeec04",
+        "parent": "heat dissipation characteristic",
+        "child": "thermal conductivity in powder bed"
+    },
+    {
+        "id": "TR_f2bfc06a",
+        "parent": "heat transfer property",
+        "child": "thermal diffusivity"
+    },
+    {
+        "id": "TR_b13a88ea",
+        "parent": "transport property assumption",
+        "child": "thermal diffusivity"
+    },
+    {
+        "id": "TR_5c13010b",
+        "parent": "heat dissipation characteristic",
+        "child": "thermal diffusivity"
+    },
+    {
+        "id": "TR_d4f66480",
+        "parent": "material property",
+        "child": "thermal diffusivity"
+    },
+    {
+        "id": "TR_fa409f63",
+        "parent": "heat transfer property",
+        "child": "thermal conductivity in powder bed"
+    },
+    {
+        "id": "TR_2ac89cbf",
+        "parent": "model variable",
+        "child": "thermal conductivity in powder bed"
+    },
+    {
+        "id": "TR_387fdbcc",
+        "parent": "radiation transfer property",
+        "child": "thermal conductivity in powder bed"
+    },
+    {
+        "id": "TR_8439071c",
+        "parent": "transport property assumption",
+        "child": "thermal conductivity in powder bed"
+    },
+    {
+        "id": "TR_d7819221",
+        "parent": "heat dissipation characteristic",
+        "child": "thermal conductivity in powder bed"
+    },
+    {
+        "id": "TR_431da7a3",
+        "parent": "heat transfer property",
+        "child": "thermal diffusivity"
+    },
+    {
+        "id": "TR_78b93c9f",
+        "parent": "transport property assumption",
+        "child": "thermal diffusivity"
+    },
+    {
+        "id": "TR_6c210c73",
+        "parent": "heat dissipation characteristic",
+        "child": "thermal diffusivity"
+    },
+    {
+        "id": "TR_a8070f60",
+        "parent": "material property",
+        "child": "thermal diffusivity"
+    },
+    {
+        "id": "TR_2b03edf0",
+        "parent": "heat transfer property",
+        "child": "thermal conductivity in powder bed"
+    },
+    {
+        "id": "TR_3ec5f473",
+        "parent": "model variable",
+        "child": "thermal conductivity in powder bed"
+    },
+    {
+        "id": "TR_8c1d3508",
+        "parent": "radiation transfer property",
+        "child": "thermal conductivity in powder bed"
+    },
+    {
+        "id": "TR_f55ca3b6",
+        "parent": "transport property assumption",
+        "child": "thermal conductivity in powder bed"
+    },
+    {
+        "id": "TR_d8691bd1",
+        "parent": "heat dissipation characteristic",
+        "child": "thermal conductivity in powder bed"
+    },
+    {
+        "id": "TR_7bcae2cb",
+        "parent": "heat transfer property",
+        "child": "thermal conductivity in powder bed"
+    },
+    {
+        "id": "TR_1b6036c7",
+        "parent": "model variable",
+        "child": "thermal conductivity in powder bed"
+    },
+    {
+        "id": "TR_abcb1885",
+        "parent": "radiation transfer property",
+        "child": "thermal conductivity in powder bed"
+    },
+    {
+        "id": "TR_0b63d5cd",
+        "parent": "transport property assumption",
+        "child": "thermal conductivity in powder bed"
+    },
+    {
+        "id": "TR_af589799",
+        "parent": "heat dissipation characteristic",
+        "child": "thermal conductivity in powder bed"
+    },
+    {
+        "id": "TR_aab3916f",
+        "parent": "heat transfer property",
+        "child": "thermal diffusivity"
+    },
+    {
+        "id": "TR_549f81ba",
+        "parent": "transport property assumption",
+        "child": "thermal diffusivity"
+    },
+    {
+        "id": "TR_d86254f4",
+        "parent": "heat dissipation characteristic",
+        "child": "thermal diffusivity"
+    },
+    {
+        "id": "TR_9b6e2403",
+        "parent": "material property",
+        "child": "thermal diffusivity"
+    },
+    {
+        "id": "TR_dd3f5b8d",
+        "parent": "heat transfer property",
+        "child": "thermal diffusivity"
+    },
+    {
+        "id": "TR_240dbbb2",
+        "parent": "transport property assumption",
+        "child": "thermal diffusivity"
+    },
+    {
+        "id": "TR_92572f41",
+        "parent": "heat dissipation characteristic",
+        "child": "thermal diffusivity"
+    },
+    {
+        "id": "TR_0eab6f24",
+        "parent": "material property",
+        "child": "thermal diffusivity"
+    },
+    {
+        "id": "TR_4bafbc28",
+        "parent": "heat transfer property",
+        "child": "thermal diffusivity"
+    },
+    {
+        "id": "TR_9e86a2f3",
+        "parent": "transport property assumption",
+        "child": "thermal diffusivity"
+    },
+    {
+        "id": "TR_0c95b94e",
+        "parent": "heat dissipation characteristic",
+        "child": "thermal diffusivity"
+    },
+    {
+        "id": "TR_cb969c94",
+        "parent": "material property",
+        "child": "thermal diffusivity"
+    },
+    {
+        "id": "TR_9b357da2",
+        "parent": "heat transfer property",
+        "child": "thermal diffusivity"
+    },
+    {
+        "id": "TR_6d454699",
+        "parent": "transport property assumption",
+        "child": "thermal diffusivity"
+    },
+    {
+        "id": "TR_009feaed",
+        "parent": "heat dissipation characteristic",
+        "child": "thermal diffusivity"
+    },
+    {
+        "id": "TR_68358d0f",
+        "parent": "material property",
+        "child": "thermal diffusivity"
+    },
+    {
+        "id": "TR_b6933e6f",
+        "parent": "model variable",
+        "child": "thermal gradient distribution"
+    },
+    {
+        "id": "TR_dcc35221",
+        "parent": "physics based model",
+        "child": "thermal model"
+    },
+    {
+        "id": "TR_be37a9b4",
+        "parent": "physics based model",
+        "child": "consolidation model"
+    },
+    {
+        "id": "TR_dd2ed4a4",
+        "parent": "prediction",
+        "child": "thermal model prediction"
+    },
+    {
+        "id": "TR_bf1f4ed3",
+        "parent": "prediction",
+        "child": "consolidation model prediction"
+    },
+    {
+        "id": "TR_41b761a5",
+        "parent": "prediction",
+        "child": "fluid mechanics model prediction"
+    },
+    {
+        "id": "TR_9ca60e18",
+        "parent": "prediction",
+        "child": "microstructural model prediction"
+    },
+    {
+        "id": "TR_e729c555",
+        "parent": "prediction",
+        "child": "solid mechanics model prediction"
+    },
+    {
+        "id": "TR_c412b501",
+        "parent": "fouriers model",
+        "child": "transport equation for enthalpy"
+    },
+    {
+        "id": "TR_030330e7",
+        "parent": "fouriers model",
+        "child": "transport equation for enthalpy"
+    },
+    {
+        "id": "TR_5aba0593",
+        "parent": "fouriers model",
+        "child": "transport equation for enthalpy"
+    },
+    {
+        "id": "TR_46e4b2cf",
+        "parent": "fouriers model",
+        "child": "transport equation for enthalpy"
+    },
+    {
+        "id": "TR_8529bb42",
+        "parent": "fouriers model",
+        "child": "transport equation for enthalpy"
+    },
+    {
+        "id": "TR_c114d07e",
+        "parent": "fouriers model",
+        "child": "transport equation for enthalpy"
+    },
+    {
+        "id": "TR_a8fca99e",
+        "parent": "fouriers model",
+        "child": "transport equation for enthalpy"
+    },
+    {
+        "id": "TR_6e6e294d",
+        "parent": "fouriers model",
+        "child": "transport equation for temperature"
+    },
+    {
+        "id": "TR_717458f7",
+        "parent": "fouriers model",
+        "child": "transport equation for temperature"
+    },
+    {
+        "id": "TR_b30e8d14",
+        "parent": "fouriers model",
+        "child": "transport equation for temperature"
+    },
+    {
+        "id": "TR_b3a4c0b5",
+        "parent": "fouriers model",
+        "child": "transport equation for temperature"
+    },
+    {
+        "id": "TR_500ecee1",
+        "parent": "fouriers model",
+        "child": "transport equation for temperature"
+    },
+    {
+        "id": "TR_3a301638",
+        "parent": "fouriers model",
+        "child": "transport equation for temperature"
+    },
+    {
+        "id": "TR_844242fd",
+        "parent": "fouriers model",
+        "child": "transport equation for temperature"
+    },
+    {
+        "id": "TR_27c66275",
+        "parent": "material property",
+        "child": "vaporization temperature"
+    },
+    {
+        "id": "TR_0e81675d",
+        "parent": "vaporization characteristic",
+        "child": "vaporization temperature"
+    },
+    {
+        "id": "TR_590ac2e6",
+        "parent": "irradiation absorption characteristic",
+        "child": "absorptivity"
+    },
+    {
+        "id": "TR_4a02376e",
+        "parent": "radiative property",
+        "child": "absorptivity"
+    },
+    {
+        "id": "TR_f08a8a30",
+        "parent": "irradiation absorption characteristic",
+        "child": "extinction coefficient"
+    },
+    {
+        "id": "TR_72fc9884",
+        "parent": "irradiation absorption characteristic",
+        "child": "absorptivity"
+    },
+    {
+        "id": "TR_21a2e66f",
+        "parent": "radiative property",
+        "child": "absorptivity"
+    },
+    {
+        "id": "TR_fb17d720",
+        "parent": "radiative property",
+        "child": "emissivity"
+    },
+    {
+        "id": "TR_1f57b62e",
+        "parent": "irradiation absorption characteristic",
+        "child": "absorptivity"
+    },
+    {
+        "id": "TR_a09a483c",
+        "parent": "radiative property",
+        "child": "absorptivity"
+    },
+    {
+        "id": "TR_ff63b110",
+        "parent": "irradiation absorption characteristic",
+        "child": "absorptivity"
+    },
+    {
+        "id": "TR_34040bf7",
+        "parent": "radiative property",
+        "child": "absorptivity"
+    },
+    {
+        "id": "TR_c220fec5",
+        "parent": "irradiation absorption characteristic",
+        "child": "absorptivity"
+    },
+    {
+        "id": "TR_fb2ed704",
+        "parent": "radiative property",
+        "child": "absorptivity"
+    },
+    {
+        "id": "TR_7bcbd491",
+        "parent": "irradiation absorption characteristic",
+        "child": "absorptivity"
+    },
+    {
+        "id": "TR_8dc31833",
+        "parent": "radiative property",
+        "child": "absorptivity"
+    },
+    {
+        "id": "TR_2487385f",
+        "parent": "irradiation absorption characteristic",
+        "child": "absorptivity"
+    },
+    {
+        "id": "TR_3510f6ed",
+        "parent": "radiative property",
+        "child": "absorptivity"
+    },
+    {
+        "id": "TR_f2686d13",
+        "parent": "irradiation absorption characteristic",
+        "child": "absorptivity"
+    },
+    {
+        "id": "TR_84ee53de",
+        "parent": "radiative property",
+        "child": "absorptivity"
+    },
+    {
+        "id": "TR_0ed63706",
+        "parent": "irradiation absorption characteristic",
+        "child": "absorptivity"
+    },
+    {
+        "id": "TR_51e223a8",
+        "parent": "radiative property",
+        "child": "absorptivity"
+    },
+    {
+        "id": "TR_9157cb44",
+        "parent": "physical",
+        "child": "additive manufacturing process"
+    },
+    {
+        "id": "TR_706734e6",
+        "parent": "physical",
+        "child": "material"
+    },
+    {
+        "id": "TR_2cc0f0f9",
+        "parent": "physical",
+        "child": "phenomenon"
+    },
+    {
+        "id": "TR_0f1c9061",
+        "parent": "melting modeling assumption",
+        "child": "at constant melting temperature"
+    },
+    {
+        "id": "TR_833c78d3",
+        "parent": "melting modeling assumption",
+        "child": "within temperature range"
+    },
+    {
+        "id": "TR_74789309",
+        "parent": "optical parameter",
+        "child": "beam size"
+    },
+    {
+        "id": "TR_05b8fe20",
+        "parent": "optical parameter",
+        "child": "beam type"
+    },
+    {
+        "id": "TR_4924550f",
+        "parent": "optical parameter",
+        "child": "beam wavelength"
+    },
+    {
+        "id": "TR_0c47d338",
+        "parent": "equation",
+        "child": "beer lambert model"
+    },
+    {
+        "id": "TR_7727bab6",
+        "parent": "equation",
+        "child": "beer lambert model"
+    },
+    {
+        "id": "TR_2476313d",
+        "parent": "equation",
+        "child": "beer lambert model"
+    },
+    {
+        "id": "TR_d43436c2",
+        "parent": "equipment parameter",
+        "child": "build chamber parameter"
+    },
+    {
+        "id": "TR_1fa1560d",
+        "parent": "equipment parameter",
+        "child": "optical parameter"
+    },
+    {
+        "id": "TR_56e493b1",
+        "parent": "build chamber parameter",
+        "child": "chamber temperature"
+    },
+    {
+        "id": "TR_01189ed8",
+        "parent": "build chamber parameter",
+        "child": "gas composition"
+    },
+    {
+        "id": "TR_c9c2b34b",
+        "parent": "build chamber parameter",
+        "child": "gas pressure"
+    },
+    {
+        "id": "TR_6869a134",
+        "parent": "abstract",
+        "child": "characteristic"
+    },
+    {
+        "id": "TR_9e8ccc43",
+        "parent": "abstract",
+        "child": "model"
+    },
+    {
+        "id": "TR_a732145c",
+        "parent": "material vendor specification",
+        "child": "chemical composition"
+    },
+    {
+        "id": "TR_eb2a28fb",
+        "parent": "material vendor specification",
+        "child": "packing density"
+    },
+    {
+        "id": "TR_f025f9a0",
+        "parent": "material vendor specification",
+        "child": "powder size distribution"
+    },
+    {
+        "id": "TR_bd0d6443",
+        "parent": "physical reflection property",
+        "child": "powder size distribution"
+    },
+    {
+        "id": "TR_dc8baf70",
+        "parent": "radiation transfer property",
+        "child": "powder size distribution"
+    },
+    {
+        "id": "TR_6e0a7cd9",
+        "parent": "phenomenon",
+        "child": "consolidation"
+    },
+    {
+        "id": "TR_b7ed3151",
+        "parent": "phenomenon",
+        "child": "consolidation"
+    },
+    {
+        "id": "TR_a56c2ae4",
+        "parent": "consolidation",
+        "child": "consolidation by melting"
+    },
+    {
+        "id": "TR_b289c384",
+        "parent": "consolidation",
+        "child": "consolidation by sintering"
+    },
+    {
+        "id": "TR_77117c6a",
+        "parent": "consolidation",
+        "child": "consolidation by melting"
+    },
+    {
+        "id": "TR_473ecdd0",
+        "parent": "consolidation characteristic",
+        "child": "consolidation by melting characteristic"
+    },
+    {
+        "id": "TR_19f0db6e",
+        "parent": "consolidation characteristic",
+        "child": "consolidation by sintering characteristic"
+    },
+    {
+        "id": "TR_b2c2d78c",
+        "parent": "consolidation characteristic",
+        "child": "consolidation by melting characteristic"
+    },
+    {
+        "id": "TR_92793632",
+        "parent": "consolidation characteristic",
+        "child": "consolidation by melting characteristic"
+    },
+    {
+        "id": "TR_76947e60",
+        "parent": "consolidation characteristic",
+        "child": "consolidation by melting characteristic"
+    },
+    {
+        "id": "TR_aae38b7d",
+        "parent": "consolidation characteristic",
+        "child": "consolidation by melting characteristic"
+    },
+    {
+        "id": "TR_e7644944",
+        "parent": "consolidation",
+        "child": "consolidation by sintering"
+    },
+    {
+        "id": "TR_4cecfc87",
+        "parent": "consolidation",
+        "child": "consolidation by sintering"
+    },
+    {
+        "id": "TR_f911ebfa",
+        "parent": "consolidation",
+        "child": "consolidation by sintering"
+    },
+    {
+        "id": "TR_8256f3f0",
+        "parent": "consolidation characteristic",
+        "child": "consolidation by sintering characteristic"
+    },
+    {
+        "id": "TR_732740b8",
+        "parent": "consolidation characteristic",
+        "child": "consolidation by sintering characteristic"
+    },
+    {
+        "id": "TR_0d16da6b",
+        "parent": "consolidation characteristic",
+        "child": "consolidation by sintering characteristic"
+    },
+    {
+        "id": "TR_1ac03f98",
+        "parent": "consolidation characteristic",
+        "child": "consolidation by sintering characteristic"
+    },
+    {
+        "id": "TR_2b4b1350",
+        "parent": "phenomenon characteristic",
+        "child": "consolidation characteristic"
+    },
+    {
+        "id": "TR_c02a598d",
+        "parent": "phenomenon characteristic",
+        "child": "heat transfer characteristic"
+    },
+    {
+        "id": "TR_0fc6f398",
+        "parent": "phenomenon characteristic",
+        "child": "irradiation absorption characteristic"
+    },
+    {
+        "id": "TR_c16356bd",
+        "parent": "physics based model",
+        "child": "consolidation model"
+    },
+    {
+        "id": "TR_b7039a02",
+        "parent": "material distribution",
+        "child": "continuum"
+    },
+    {
+        "id": "TR_ec2873e0",
+        "parent": "material distribution",
+        "child": "particle"
+    },
+    {
+        "id": "TR_56d3c578",
+        "parent": "surface convection",
+        "child": "convection coefficient"
+    },
+    {
+        "id": "TR_397e7d6e",
+        "parent": "surface distribution of heat",
+        "child": "cylindrical distribution"
+    },
+    {
+        "id": "TR_96525310",
+        "parent": "surface distribution of heat",
+        "child": "gaussian distribution"
+    },
+    {
+        "id": "TR_ec25b78b",
+        "parent": "surface distribution of heat",
+        "child": "point source distribution"
+    },
+    {
+        "id": "TR_9b83c534",
+        "parent": "microstructure",
+        "child": "dendrite grain orientation"
+    },
+    {
+        "id": "TR_f2601d14",
+        "parent": "microstructure",
+        "child": "dentritic grain size"
+    },
+    {
+        "id": "TR_e6e81fb4",
+        "parent": "microstructural model prediction",
+        "child": "dendrite orientation"
+    },
+    {
+        "id": "TR_602f6de9",
+        "parent": "microstructural model prediction",
+        "child": "dendritic grain size distribution"
+    },
+    {
+        "id": "TR_78fcdbab",
+        "parent": "microstructural model prediction",
+        "child": "microstructure distribution"
+    },
+    {
+        "id": "TR_40e1dbaa",
+        "parent": "statistical nature of irradiation distribution",
+        "child": "deterministic irradiation"
+    },
+    {
+        "id": "TR_f49e1cc1",
+        "parent": "statistical nature of irradiation distribution",
+        "child": "stochastic irradiation"
+    },
+    {
+        "id": "TR_a9f09eae",
+        "parent": "powder bed fusion process",
+        "child": "direct metal laser melting"
+    },
+    {
+        "id": "TR_1250c89a",
+        "parent": "powder bed fusion process",
+        "child": "direct metal laser sintering"
+    },
+    {
+        "id": "TR_92c3f4c6",
+        "parent": "powder bed fusion process",
+        "child": "electron beam melting"
+    },
+    {
+        "id": "TR_d98b700f",
+        "parent": "powder bed fusion process",
+        "child": "selective laser melting"
+    },
+    {
+        "id": "TR_204df4ac",
+        "parent": "powder bed fusion process",
+        "child": "selective laser sintering"
+    },
+    {
+        "id": "TR_c86df1f4",
+        "parent": "heat transfer numerical method",
+        "child": "discrete element method"
+    },
+    {
+        "id": "TR_9d8b00ca",
+        "parent": "irradiation absorption numerical method",
+        "child": "discrete element method"
+    },
+    {
+        "id": "TR_64ecd740",
+        "parent": "irradiation absorption numerical method",
+        "child": "two flux method"
+    },
+    {
+        "id": "TR_20fc3d5a",
+        "parent": "model",
+        "child": "empirical model"
+    },
+    {
+        "id": "TR_2bc431c1",
+        "parent": "model",
+        "child": "physics based model"
+    },
+    {
+        "id": "TR_d889a1ce",
+        "parent": "model element",
+        "child": "equation"
+    },
+    {
+        "id": "TR_778372d9",
+        "parent": "phase transformation assumption",
+        "child": "evaporation modeling assumption"
+    },
+    {
+        "id": "TR_7c38e656",
+        "parent": "phase transformation assumption",
+        "child": "melting modeling assumption"
+    },
+    {
+        "id": "TR_130572d9",
+        "parent": "irradiation absorption characteristic",
+        "child": "extinction coefficient"
+    },
+    {
+        "id": "TR_d9f7a160",
+        "parent": "irradiation absorption characteristic",
+        "child": "extinction coefficient"
+    },
+    {
+        "id": "TR_af0d852d",
+        "parent": "irradiation absorption characteristic",
+        "child": "extinction coefficient"
+    },
+    {
+        "id": "TR_59f005ba",
+        "parent": "irradiation absorption characteristic",
+        "child": "extinction coefficient"
+    },
+    {
+        "id": "TR_0e0bb08d",
+        "parent": "irradiation absorption characteristic",
+        "child": "extinction coefficient"
+    },
+    {
+        "id": "TR_1e6f92eb",
+        "parent": "irradiation absorption characteristic",
+        "child": "extinction coefficient"
+    },
+    {
+        "id": "TR_d0b41b55",
+        "parent": "heat transfer property",
+        "child": "fluid velocity"
+    },
+    {
+        "id": "TR_90dd47f9",
+        "parent": "fluid mechanics model prediction",
+        "child": "fluid velocity"
+    },
+    {
+        "id": "TR_df861f93",
+        "parent": "fluid mechanics model prediction",
+        "child": "melt pool shape"
+    },
+    {
+        "id": "TR_0b95098b",
+        "parent": "melt pool signature",
+        "child": "melt pool shape"
+    },
+    {
+        "id": "TR_6a312afc",
+        "parent": "phase transformation",
+        "child": "fusion"
+    },
+    {
+        "id": "TR_82931f53",
+        "parent": "phase transformation",
+        "child": "vaporization"
+    },
+    {
+        "id": "TR_c106ce52",
+        "parent": "heat transfer",
+        "child": "heat dissipation"
+    },
+    {
+        "id": "TR_b77e29c5",
+        "parent": "heat transfer",
+        "child": "phase transformation"
+    },
+    {
+        "id": "TR_9bbc8cc1",
+        "parent": "heat transfer characteristic",
+        "child": "heat dissipation characteristic"
+    },
+    {
+        "id": "TR_5a61750f",
+        "parent": "heat transfer characteristic",
+        "child": "phase transformation characteristic"
+    },
+    {
+        "id": "TR_670ca35c",
+        "parent": "heat transfer characteristic",
+        "child": "heat dissipation characteristic"
+    },
+    {
+        "id": "TR_50505654",
+        "parent": "heat transfer characteristic",
+        "child": "heat dissipation characteristic"
+    },
+    {
+        "id": "TR_ef176d1a",
+        "parent": "heat transfer characteristic",
+        "child": "heat dissipation characteristic"
+    },
+    {
+        "id": "TR_247697cd",
+        "parent": "heat transfer characteristic",
+        "child": "heat dissipation characteristic"
+    },
+    {
+        "id": "TR_43adfaa0",
+        "parent": "heat transfer characteristic",
+        "child": "heat dissipation characteristic"
+    },
+    {
+        "id": "TR_2932fa74",
+        "parent": "heat transfer characteristic",
+        "child": "heat dissipation characteristic"
+    },
+    {
+        "id": "TR_04c25c26",
+        "parent": "irradiation modeling assumption",
+        "child": "heat source power"
+    },
+    {
+        "id": "TR_1bf249fa",
+        "parent": "powder bed fusion process parameter",
+        "child": "heat source power"
+    },
+    {
+        "id": "TR_21f3c944",
+        "parent": "irradiation modeling assumption",
+        "child": "statistical nature of irradiation distribution"
+    },
+    {
+        "id": "TR_735e4c49",
+        "parent": "physical reflection property",
+        "child": "surface distribution of heat"
+    },
+    {
+        "id": "TR_fad0c165",
+        "parent": "radiation transfer property",
+        "child": "surface distribution of heat"
+    },
+    {
+        "id": "TR_f67fec17",
+        "parent": "irradiation modeling assumption",
+        "child": "surface distribution of heat"
+    },
+    {
+        "id": "TR_9adf52cf",
+        "parent": "thermal phenomenon",
+        "child": "heat transfer"
+    },
+    {
+        "id": "TR_f098c97c",
+        "parent": "thermal phenomenon",
+        "child": "irradiation absorption"
+    },
+    {
+        "id": "TR_946288a2",
+        "parent": "thermal phenomenon",
+        "child": "heat transfer"
+    },
+    {
+        "id": "TR_435ec897",
+        "parent": "thermal phenomenon",
+        "child": "heat transfer"
+    },
+    {
+        "id": "TR_633638e6",
+        "parent": "phenomenon characteristic",
+        "child": "heat transfer characteristic"
+    },
+    {
+        "id": "TR_17140ddd",
+        "parent": "phenomenon characteristic",
+        "child": "heat transfer characteristic"
+    },
+    {
+        "id": "TR_b23f2171",
+        "parent": "thermal model",
+        "child": "heat transfer model"
+    },
+    {
+        "id": "TR_5eddff93",
+        "parent": "thermal model",
+        "child": "irradiation absorption model"
+    },
+    {
+        "id": "TR_c8287237",
+        "parent": "thermal model",
+        "child": "heat transfer model"
+    },
+    {
+        "id": "TR_971685a1",
+        "parent": "thermal model",
+        "child": "heat transfer model"
+    },
+    {
+        "id": "TR_eab0fccc",
+        "parent": "thermal model",
+        "child": "heat transfer model"
+    },
+    {
+        "id": "TR_3f354583",
+        "parent": "thermal modeling assumption",
+        "child": "heat transfer modeling assumption"
+    },
+    {
+        "id": "TR_123c7b83",
+        "parent": "thermal modeling assumption",
+        "child": "irradiation absorption modeling assumption"
+    },
+    {
+        "id": "TR_54fc8a32",
+        "parent": "thermal phenomenon",
+        "child": "irradiation absorption"
+    },
+    {
+        "id": "TR_61962e53",
+        "parent": "thermal phenomenon",
+        "child": "irradiation absorption"
+    },
+    {
+        "id": "TR_e1246b6e",
+        "parent": "phenomenon characteristic",
+        "child": "irradiation absorption characteristic"
+    },
+    {
+        "id": "TR_c2d050d7",
+        "parent": "phenomenon characteristic",
+        "child": "irradiation absorption characteristic"
+    },
+    {
+        "id": "TR_c9c5c860",
+        "parent": "phenomenon characteristic",
+        "child": "irradiation absorption characteristic"
+    },
+    {
+        "id": "TR_ce9a38df",
+        "parent": "thermal model",
+        "child": "irradiation absorption model"
+    },
+    {
+        "id": "TR_08c96675",
+        "parent": "thermal model",
+        "child": "irradiation absorption model"
+    },
+    {
+        "id": "TR_3f7f3e78",
+        "parent": "thermal model",
+        "child": "irradiation absorption model"
+    },
+    {
+        "id": "TR_44f9e7d1",
+        "parent": "melt pool shape",
+        "child": "melt pool depth"
+    },
+    {
+        "id": "TR_d684c5ee",
+        "parent": "melt pool shape",
+        "child": "melt pool length"
+    },
+    {
+        "id": "TR_f7e4a310",
+        "parent": "melt pool shape",
+        "child": "melt pool width"
+    },
+    {
+        "id": "TR_f511cf69",
+        "parent": "melt pool temperature",
+        "child": "melt pool maximum temperature"
+    },
+    {
+        "id": "TR_91c7f21e",
+        "parent": "melt pool temperature",
+        "child": "melt pool temperature gradient"
+    },
+    {
+        "id": "TR_5c8753e0",
+        "parent": "fluid mechanics model prediction",
+        "child": "melt pool shape"
+    },
+    {
+        "id": "TR_4d6e4e12",
+        "parent": "melt pool signature",
+        "child": "melt pool shape"
+    },
+    {
+        "id": "TR_ff0666cc",
+        "parent": "melt pool signature",
+        "child": "melt pool temperature"
+    },
+    {
+        "id": "TR_a5e1cdf0",
+        "parent": "process signature",
+        "child": "melt pool signature"
+    },
+    {
+        "id": "TR_23216430",
+        "parent": "process signature",
+        "child": "microstructure"
+    },
+    {
+        "id": "TR_26b02bc8",
+        "parent": "process signature",
+        "child": "residual stress distribution"
+    },
+    {
+        "id": "TR_e8cb5fc6",
+        "parent": "solid mechanics model prediction",
+        "child": "residual stress distribution"
+    },
+    {
+        "id": "TR_ad80a85a",
+        "parent": "process signature",
+        "child": "shrinkage"
+    },
+    {
+        "id": "TR_d646a515",
+        "parent": "process signature",
+        "child": "void"
+    },
+    {
+        "id": "TR_5b574bc5",
+        "parent": "process signature",
+        "child": "melt pool signature"
+    },
+    {
+        "id": "TR_b2e3391e",
+        "parent": "process signature",
+        "child": "melt pool signature"
+    },
+    {
+        "id": "TR_4173de31",
+        "parent": "process signature",
+        "child": "melt pool signature"
+    },
+    {
+        "id": "TR_81a2c961",
+        "parent": "process signature",
+        "child": "melt pool signature"
+    },
+    {
+        "id": "TR_1bb37bb9",
+        "parent": "process signature",
+        "child": "melt pool signature"
+    },
+    {
+        "id": "TR_c9a9f866",
+        "parent": "process signature",
+        "child": "melt pool signature"
+    },
+    {
+        "id": "TR_32096e6b",
+        "parent": "process signature",
+        "child": "melt pool signature"
+    },
+    {
+        "id": "TR_25bc56d3",
+        "parent": "process signature",
+        "child": "melt pool signature"
+    },
+    {
+        "id": "TR_a988e562",
+        "parent": "process signature",
+        "child": "microstructure"
+    },
+    {
+        "id": "TR_d339db8f",
+        "parent": "process signature",
+        "child": "microstructure"
+    },
+    {
+        "id": "TR_ceba2a85",
+        "parent": "process signature",
+        "child": "microstructure"
+    },
+    {
+        "id": "TR_06d7231c",
+        "parent": "microstructural phenomenon",
+        "child": "microstructure evolution"
+    },
+    {
+        "id": "TR_1196c733",
+        "parent": "characteristic",
+        "child": "model element"
+    },
+    {
+        "id": "TR_058b6cd0",
+        "parent": "characteristic",
+        "child": "phenomenon characteristic"
+    },
+    {
+        "id": "TR_131c9f50",
+        "parent": "characteristic",
+        "child": "process parameter"
+    },
+    {
+        "id": "TR_270729a7",
+        "parent": "characteristic",
+        "child": "process signature"
+    },
+    {
+        "id": "TR_44091c36",
+        "parent": "heat transfer characteristic",
+        "child": "phase transformation characteristic"
+    },
+    {
+        "id": "TR_1e56bef3",
+        "parent": "heat transfer characteristic",
+        "child": "phase transformation characteristic"
+    },
+    {
+        "id": "TR_f6914278",
+        "parent": "physical",
+        "child": "phenomenon"
+    },
+    {
+        "id": "TR_5c98fe9e",
+        "parent": "model",
+        "child": "physics based model"
+    },
+    {
+        "id": "TR_63dc2f96",
+        "parent": "model",
+        "child": "physics based model"
+    },
+    {
+        "id": "TR_59b569b3",
+        "parent": "additive manufacturing process",
+        "child": "powder bed fusion process"
+    },
+    {
+        "id": "TR_d44fa6a9",
+        "parent": "additive manufacturing process",
+        "child": "powder bed fusion process"
+    },
+    {
+        "id": "TR_daf00e29",
+        "parent": "process parameter",
+        "child": "powder bed fusion process parameter"
+    },
+    {
+        "id": "TR_831d770f",
+        "parent": "equation",
+        "child": "radiation transfer model"
+    },
+    {
+        "id": "TR_703edc39",
+        "parent": "equation",
+        "child": "radiation transfer model"
+    },
+    {
+        "id": "TR_6cdedee4",
+        "parent": "equation",
+        "child": "radiation transfer model"
+    },
+    {
+        "id": "TR_dd1d5189",
+        "parent": "equation",
+        "child": "radiation transfer model"
+    },
+    {
+        "id": "TR_8caa33ea",
+        "parent": "equation",
+        "child": "ray tracing model"
+    },
+    {
+        "id": "TR_81d8db0f",
+        "parent": "equation",
+        "child": "ray tracing model"
+    },
+    {
+        "id": "TR_15c055d9",
+        "parent": "equation",
+        "child": "ray tracing model"
+    },
+    {
+        "id": "TR_2b0e49df",
+        "parent": "equation",
+        "child": "ray tracing model"
+    },
+    {
+        "id": "TR_d359d2fb",
+        "parent": "process signature",
+        "child": "residual stress distribution"
+    },
+    {
+        "id": "TR_f4bb42f5",
+        "parent": "solid mechanics model prediction",
+        "child": "residual stress distribution"
+    },
+    {
+        "id": "TR_ca1257ae",
+        "parent": "solid mechanics model prediction",
+        "child": "strain distribution"
+    },
+    {
+        "id": "TR_9802cdde",
+        "parent": "process signature",
+        "child": "residual stress distribution"
+    },
+    {
+        "id": "TR_a888d875",
+        "parent": "solid mechanics model prediction",
+        "child": "residual stress distribution"
+    },
+    {
+        "id": "TR_8a817d71",
+        "parent": "process signature",
+        "child": "residual stress distribution"
+    },
+    {
+        "id": "TR_6782ce2b",
+        "parent": "solid mechanics model prediction",
+        "child": "residual stress distribution"
+    },
+    {
+        "id": "TR_6e95742f",
+        "parent": "process signature",
+        "child": "residual stress distribution"
+    },
+    {
+        "id": "TR_8b0960fb",
+        "parent": "solid mechanics model prediction",
+        "child": "residual stress distribution"
+    },
+    {
+        "id": "TR_cefa4e0d",
+        "parent": "process signature",
+        "child": "residual stress distribution"
+    },
+    {
+        "id": "TR_d72fa3c3",
+        "parent": "solid mechanics model prediction",
+        "child": "residual stress distribution"
+    },
+    {
+        "id": "TR_65a1fc81",
+        "parent": "process signature",
+        "child": "shrinkage"
+    },
+    {
+        "id": "TR_347bbd23",
+        "parent": "process signature",
+        "child": "shrinkage"
+    },
+    {
+        "id": "TR_a1a7ae1d",
+        "parent": "structural phenomenon",
+        "child": "solid mechanics"
+    },
+    {
+        "id": "TR_a70af7d5",
+        "parent": "heat transfer property",
+        "child": "surface distribution of absorbed heat"
+    },
+    {
+        "id": "TR_b541bcfb",
+        "parent": "dimensionality of absorbed heat",
+        "child": "surface distribution of absorbed heat"
+    },
+    {
+        "id": "TR_a863588f",
+        "parent": "irradiation absorption model prediction",
+        "child": "surface distribution of absorbed heat"
+    },
+    {
+        "id": "TR_3562615e",
+        "parent": "heat transfer property",
+        "child": "volumetric distribution of absorbed heat"
+    },
+    {
+        "id": "TR_ca7586d8",
+        "parent": "dimensionality of absorbed heat",
+        "child": "volumetric distribution of absorbed heat"
+    },
+    {
+        "id": "TR_3c97572f",
+        "parent": "irradiation absorption model prediction",
+        "child": "volumetric distribution of absorbed heat"
+    },
+    {
+        "id": "TR_d2726aea",
+        "parent": "heat transfer property",
+        "child": "surface distribution of absorbed heat"
+    },
+    {
+        "id": "TR_da1f0783",
+        "parent": "dimensionality of absorbed heat",
+        "child": "surface distribution of absorbed heat"
+    },
+    {
+        "id": "TR_308df01e",
+        "parent": "irradiation absorption model prediction",
+        "child": "surface distribution of absorbed heat"
+    },
+    {
+        "id": "TR_949cf804",
+        "parent": "heat transfer property",
+        "child": "volumetric distribution of absorbed heat"
+    },
+    {
+        "id": "TR_39982e8f",
+        "parent": "dimensionality of absorbed heat",
+        "child": "volumetric distribution of absorbed heat"
+    },
+    {
+        "id": "TR_c1c8ae4f",
+        "parent": "irradiation absorption model prediction",
+        "child": "volumetric distribution of absorbed heat"
+    },
+    {
+        "id": "TR_aa8b5e99",
+        "parent": "heat transfer property",
+        "child": "surface distribution of absorbed heat"
+    },
+    {
+        "id": "TR_1b1b5018",
+        "parent": "dimensionality of absorbed heat",
+        "child": "surface distribution of absorbed heat"
+    },
+    {
+        "id": "TR_d2896f99",
+        "parent": "irradiation absorption model prediction",
+        "child": "surface distribution of absorbed heat"
+    },
+    {
+        "id": "TR_1d0d1a74",
+        "parent": "heat transfer property",
+        "child": "surface distribution of absorbed heat"
+    },
+    {
+        "id": "TR_b5b2d8b4",
+        "parent": "dimensionality of absorbed heat",
+        "child": "surface distribution of absorbed heat"
+    },
+    {
+        "id": "TR_8f131cc8",
+        "parent": "irradiation absorption model prediction",
+        "child": "surface distribution of absorbed heat"
+    },
+    {
+        "id": "TR_47c73900",
+        "parent": "physical reflection property",
+        "child": "surface distribution of heat"
+    },
+    {
+        "id": "TR_e1df4415",
+        "parent": "radiation transfer property",
+        "child": "surface distribution of heat"
+    },
+    {
+        "id": "TR_ea24dc68",
+        "parent": "irradiation modeling assumption",
+        "child": "surface distribution of heat"
+    },
+    {
+        "id": "TR_f33637b6",
+        "parent": "physical reflection property",
+        "child": "surface distribution of heat"
+    },
+    {
+        "id": "TR_13ca0cbf",
+        "parent": "radiation transfer property",
+        "child": "surface distribution of heat"
+    },
+    {
+        "id": "TR_f40d05f0",
+        "parent": "irradiation modeling assumption",
+        "child": "surface distribution of heat"
+    },
+    {
+        "id": "TR_970366fc",
+        "parent": "dimensionality of physical system",
+        "child": "three dimensional"
+    },
+    {
+        "id": "TR_760660bf",
+        "parent": "dimensionality of physical system",
+        "child": "two dimensional"
+    },
+    {
+        "id": "TR_0c4fc902",
+        "parent": "heat transfer model prediction",
+        "child": "time history of enthalpy"
+    },
+    {
+        "id": "TR_04b87482",
+        "parent": "heat transfer model prediction",
+        "child": "time history of temperature"
+    },
+    {
+        "id": "TR_44af1e3b",
+        "parent": "process signature",
+        "child": "void"
+    },
+    {
+        "id": "TR_a77703cb",
+        "parent": "process signature",
+        "child": "void"
+    },
+    {
+        "id": "TR_435d975d",
+        "parent": "heat transfer property",
+        "child": "volumetric distribution of absorbed heat"
+    },
+    {
+        "id": "TR_749fae62",
+        "parent": "dimensionality of absorbed heat",
+        "child": "volumetric distribution of absorbed heat"
+    },
+    {
+        "id": "TR_44dcfed3",
+        "parent": "irradiation absorption model prediction",
+        "child": "volumetric distribution of absorbed heat"
+    },
+    {
+        "id": "TR_6888ac17",
+        "parent": "heat transfer property",
+        "child": "volumetric distribution of absorbed heat"
+    },
+    {
+        "id": "TR_d1815028",
+        "parent": "dimensionality of absorbed heat",
+        "child": "volumetric distribution of absorbed heat"
+    },
+    {
+        "id": "TR_64321bc2",
+        "parent": "irradiation absorption model prediction",
+        "child": "volumetric distribution of absorbed heat"
+    },
+    {
+        "id": "TR_85dec364",
+        "parent": "heat transfer property",
+        "child": "volumetric distribution of absorbed heat"
+    },
+    {
+        "id": "TR_0591d92f",
+        "parent": "dimensionality of absorbed heat",
+        "child": "volumetric distribution of absorbed heat"
+    },
+    {
+        "id": "TR_8d18142e",
+        "parent": "irradiation absorption model prediction",
+        "child": "volumetric distribution of absorbed heat"
+    },
+    {
+        "id": "TR_23e5e8d9",
+        "parent": "heat transfer property",
+        "child": "volumetric distribution of absorbed heat"
+    },
+    {
+        "id": "TR_53d78245",
+        "parent": "dimensionality of absorbed heat",
+        "child": "volumetric distribution of absorbed heat"
+    },
+    {
+        "id": "TR_b3168fcf",
+        "parent": "irradiation absorption model prediction",
+        "child": "volumetric distribution of absorbed heat"
+    },
+    {
+        "id": "TR_64cfb150",
+        "parent": "heat transfer property",
+        "child": "volumetric distribution of absorbed heat"
+    },
+    {
+        "id": "TR_3a0445a0",
+        "parent": "dimensionality of absorbed heat",
+        "child": "volumetric distribution of absorbed heat"
+    },
+    {
+        "id": "TR_22aa3e02",
+        "parent": "irradiation absorption model prediction",
+        "child": "volumetric distribution of absorbed heat"
+    }
+]
